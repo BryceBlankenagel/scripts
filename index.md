@@ -7,7 +7,7 @@ navigation: 0
 # Show Notes
 
 {% assign post = site.posts.first %}
-{% include post.html %}
+include post.html
 
 {% assign current_post = site.posts.first %}
 {% for post in site.posts -%}
