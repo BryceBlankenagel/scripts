@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 117 - Miss Nancy Rigdon
+title: 'Ep 117 - Miss Nancy Rigdon'
 episode_url: https://nakedmormonismpodcast.com/ep-117-miss-nancy-rigdon/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-117-miss-nancy-rigdon
 category: History

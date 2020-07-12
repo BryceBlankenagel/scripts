@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 63 - Failure to Prophesy
+title: 'Ep 63 - Failure to Prophesy'
 episode_url: https://nakedmormonismpodcast.com/episode-63-failure-prophesy/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-63-failure-to-prophesy
 category: History

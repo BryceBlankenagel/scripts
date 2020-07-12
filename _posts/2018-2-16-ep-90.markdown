@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 90 - I’ll Show You a Bonaparte
+title: 'Ep 90 - I’ll Show You a Bonaparte'
 episode_url: https://nakedmormonismpodcast.com/episode-90-ill-show-bonaparte/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-90-ill-show-you-a-bonaparte
 category: History

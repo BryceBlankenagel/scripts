@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 212 - Emma Smith, Linda Newell, and Valeen Avery
+title: 'Ep 212 - Emma Smith, Linda Newell, and Valeen Avery'
 episode_url: https://nakedmormonismpodcast.com/episode-212-emma-smith-linda-newell-valeen-avery/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-212-emma-smith-linda-newell-and-valeen-avery
 category: History

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 208 - A Fateful Crossing of the Mississippi
+title: 'Ep 208 - A Fateful Crossing of the Mississippi'
 episode_url: https://nakedmormonismpodcast.com/episode-208-fateful-crossing-mississippi/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-208-a-fateful-crossing-of-the-mississippi
 category: History

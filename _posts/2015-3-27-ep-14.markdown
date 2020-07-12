@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 14 - Sidney's Rigorous examination
+title: 'Ep 14 - Sidney's Rigorous examination'
 episode_url: https://nakedmormonismpodcast.com/episode-14-sidneys-rigorous-examination/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep14-sidneys-rigorous-examination
 category: History
