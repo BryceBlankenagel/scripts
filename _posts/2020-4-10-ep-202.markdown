@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ep 202 - Nauvoo Expositor: Destruction'
+title: Ep 202 - Nauvoo Expositor: Destruction
 episode_url: https://nakedmormonismpodcast.com/episode-202-nauvoo-expositor-destruction/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-202-nauvoo-expositor-destruction
 category: History

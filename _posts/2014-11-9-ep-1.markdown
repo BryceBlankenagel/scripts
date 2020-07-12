@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ep 1 - Introduction to Mormonism and Joseph Smith'
+title: Ep 1 - Introduction to Mormonism and Joseph Smith
 episode_url: https://nakedmormonismpodcast.com/episode-1-introduction-mormonism-joseph-smith/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep1-introduction-to-mormonism-and-joseph-smith
 category: History

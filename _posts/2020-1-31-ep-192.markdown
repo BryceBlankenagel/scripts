@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ep 192 - Called and Numbered with the Chosen'
+title: Ep 192 - Called and Numbered with the Chosen
 episode_url: https://nakedmormonismpodcast.com/episode-192-called-numbered-chosen/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-192-called-and-numbered-with-the-chosen
 category: History
