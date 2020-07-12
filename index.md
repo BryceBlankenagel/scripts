@@ -6,12 +6,10 @@ navigation: 0
 
 # Show Notes
 
-{% assign post = site.posts.first %}
-include post.html
-
-{% assign current_post = site.posts.first %}
-{% for post in site.posts -%}
-  {% unless post.url == current_post.url -%}
-    Post
-  {% endunless %}
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
