@@ -24,8 +24,8 @@ layout: default
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
-    {%- if post.episode_url -%}
-      <p><a href="{{ post.episode_url }}">Episode Page</a></p>
+    {%- if page.episode_url -%}
+      <p><a href="{{ page.episode_url }}">Episode Page</a></p>
     {%- endif -%}
   </header>
 
