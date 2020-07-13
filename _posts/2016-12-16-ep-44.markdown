@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 44 - The Battle Begins
+title: 'Ep 44 – The Battle Begins'
 episode_url: https://nakedmormonismpodcast.com/episode-44-battle-begins/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-44-the-battle-begins
 category: History

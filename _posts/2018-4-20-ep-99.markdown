@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 99 - I’ve Had Enough Trouble with This Thing
+title: 'Ep 99 – I’ve Had Enough Trouble with This Thing'
 episode_url: https://nakedmormonismpodcast.com/ep-99-ive-enough-trouble-thing/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-99-ive-had-enough-trouble-with-this-thing
 category: History

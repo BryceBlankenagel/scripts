@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 20 - Joe the Ignoramus, and the Book of Pukei
+title: 'Ep 20 – Joe the Ignoramus, and the Book of Pukei'
 episode_url: https://nakedmormonismpodcast.com/episode-20-joe-ignoramus-book-pukei/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/episode-20-joe-the-ignoramus-and-the-book-of-pukei
 category: History

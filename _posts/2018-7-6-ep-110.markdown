@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ep 110 - King Me!
+title: 'Ep 110 – King Me!'
 episode_url: https://nakedmormonismpodcast.com/episode-110-king/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-110-king-me
 category: History
