@@ -1,1 +1,4 @@
 theme: minima
+exclude:
+  - README.md
+  - proc.py
