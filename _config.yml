@@ -1,4 +1,12 @@
 theme: minima
+title: Naked Mormonism Show Notes
+description: Skepticize Everything
+twitter_username: NakedMormonism
+
+plugins:
+  - jekyll-sitemap
+
 exclude:
   - README.md
   - proc.py
+  
