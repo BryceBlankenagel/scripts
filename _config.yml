@@ -2,6 +2,7 @@ theme: minima
 title: Naked Mormonism Show Notes
 description: Skepticize Everything
 twitter_username: NakedMormonism
+facebook_username: Naked-Mormonism-370003839816311
 
 plugins:
   - jekyll-sitemap
