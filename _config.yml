@@ -4,6 +4,10 @@ description: Skepticize Everything
 twitter_username: NakedMormonism
 facebook_username: Naked-Mormonism-370003839816311
 
+author:
+  name: Bryce Blankenagel
+  email: NakedMormonism@gmail.com
+
 plugins:
   - jekyll-sitemap
 
