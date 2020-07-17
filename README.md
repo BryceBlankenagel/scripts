@@ -1,21 +1,22 @@
 # Show Scripts github pages site
 
-This is a jekyll website. The show notes were converted from their original .docx or .odt to be markdown format. This was done with a tool called pandoc.
+This is a jekyll website. The show notes were converted from their original .docx or .odt to be github-flavored markdown format. This was done with a tool called pandoc.
 
-    for i in *; do pandoc -s -f $i -o $i.markdown; done
+    for i in *; do pandoc -t gfm -f $i -o $i.markdown; done
 
 Jekyll can be used for dated content posts such as a blog. The post functionality is what is used here. Jekyll posts and pages have a section at the top of the file called the frontmatter. The frontmatter has information about the post that can be used when the content is rendered for display. Each post has front matter as follows:
 
     ---
     layout: post
-    title: 'Ep 6 - Polygamy Special'
+    title: >
+        Ep 6 - Polygamy Special
     episode_url: https://nakedmormonismpodcast.com/episode-6-polygamy-special-pt-1/
     libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep6-polygamy-special
     category: History
     date: 2014-11-21 05:29:25 +0000
     ---
 
-The `layout: post` bit tells jekyll to render it as a post explicitly. The `title` bit has the title inside of single quotes. This field also needs to be html escaped. That means that `Ep 30 - Zion's` would need to have `&#x27;` instead of the single quote.
+The `layout: post` bit tells jekyll to render it as a post explicitly. The `title` bit has a `>` and the actual title appears on the next line.
 
 The episode_url and libsyn_url are fields specifically created with this project in mind. episode_url is utilized to generate the link back to the show at the top. The libsyn data was also present, so I figured I would include it.
 

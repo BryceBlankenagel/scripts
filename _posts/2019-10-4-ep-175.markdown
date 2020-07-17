@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Ep 175 - Legal Polygamy w/ Philippa Meek Pt. 2'
+title: >
+    Ep 175 - Legal Polygamy w/ Philippa Meek Pt. 2
 episode_url: https://nakedmormonismpodcast.com/episode-175-legal-polygamy-w-philippa-meek-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-175-legal-polygamy-w-philippa-meek-pt-2
 category: History

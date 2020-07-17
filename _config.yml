@@ -13,4 +13,7 @@ plugins:
 exclude:
   - README.md
   - proc.py
-  
+  - shn 
+  - Gemfile 
+  - Gemfile.lock
+  - namo_episodes.tsv

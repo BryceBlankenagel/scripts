@@ -4,18 +4,19 @@ from datetime import datetime
 import html
 
 #f = open("Untitled spreadsheet - Sheet2.tsv", "r")
-f = open("Namo Episodes - Sheet2.tsv", "r")
+f = open("Namo Episodes - Sheet2 (1).tsv", "r")
 f.readline() # headers
 
 for line in f:
     title, category, url, filename, lurl, date1, date2 = line.split('\t')
     realdate=datetime.strptime(date2.strip(), '%m/%d/%Y %H:%M:%S')
     #print(title, url, realdate)
-    if category=="History":
+    if filename!="":
         outfile =  '-'.join([str(realdate.year), str(realdate.month), str(realdate.day)] +  title.lower().split(' ')[:2]) + '.markdown'
         frontmatter='''---
 layout: post
-title: '{title}'
+title: >
+    {title}
 episode_url: {url}
 libsyn_url: {lurl}
 category: History
