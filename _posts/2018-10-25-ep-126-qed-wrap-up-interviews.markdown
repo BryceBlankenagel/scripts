@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-    Ep 126 - QED Wrap Up &amp; Interviews
+    Ep 126 - QED Wrap Up & Interviews
 episode_url: https://nakedmormonismpodcast.com/episode-126-qed-wrap-interviews/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-126-qed-wrap-up-interviews
 category: History

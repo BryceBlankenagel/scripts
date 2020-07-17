@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-    Ep 149 - D&amp;C 132 Pt. 2 the ConText
+    Ep 149 - D&C 132 Pt. 2 the ConText
 episode_url: https://nakedmormonismpodcast.com/episode-149-dc-132-pt-2-context/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-149-dc-132-pt-2-the-context
 category: History
