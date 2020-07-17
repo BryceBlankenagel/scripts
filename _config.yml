@@ -9,6 +9,7 @@ email: NakedMormonism@gmail.com
 
 plugins:
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 exclude:
   - README.md
