@@ -4,7 +4,7 @@ title: >
     CC - Mark Hofmann pt 1
 episode_url: https://nakedmormonismpodcast.com/cc-mark-hofmann-pt-1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/cc-mark-hofmann-pt-1
-category: History
+category: CC
 date: 2016-08-11 18:51:27 +0000
 ---
 

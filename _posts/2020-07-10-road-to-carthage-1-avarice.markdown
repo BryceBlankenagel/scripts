@@ -4,7 +4,7 @@ title: >
     Road to Carthage 1 - Avarice
 episode_url: https://nakedmormonismpodcast.com/road-carthage-1-avarice/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-1-avarice
-category: History
+category: RTC
 date: 2020-07-10 03:00:00 +0000
 ---
 

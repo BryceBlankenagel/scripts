@@ -4,7 +4,7 @@ title: >
     CC - The Book of Mormon
 episode_url: https://nakedmormonismpodcast.com/6631-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/cc-the-book-of-mormon
-category: History
+category: CC
 date: 2015-11-15 07:52:13 +0000
 ---
 
