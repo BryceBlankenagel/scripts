@@ -1,5 +1,13 @@
 # Show Scripts github pages site
 
+If you find an error on the site, please sumit a correction!
+
+Each file in the `_posts` directory constitutes the show notes for an episode. Bryce prepares show notes ahead of time, and they make their way into this github repository for all to access. If there is a typo, or other fix/enhancement that could be submitted, those submissions are welcome. Submitting a pull request that significantly alters the notes will be rejected, but minor corrections such as typo fixes or adding hyperlinks are generally welcome. Anything more than a minor correction may not be accepted unless cleared ahead of time!
+
+To contribute a correction, you will need a github account, which is free. Each page has a link near the bottom that says "Edit this page on github". This will open an editor for logged-in github users, and prompt you to make changes, and then create a pull request. Pull Requests will be reviewed and accepted or rejected.
+
+# Technical info about the website
+
 This is a jekyll website. The show notes were converted from their original .docx or .odt to be github-flavored markdown format. This was done with a tool called pandoc.
 
     for i in *; do pandoc -t gfm -f $i -o $i.markdown; done
