@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+{%- include pagenav.html -%}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -34,10 +37,11 @@ layout: default
     <p style="font-size: smaller; font-style: italic; font-weight: lighter;">Copyright Ground Gnomes LLC subject to fair use. Citation example: "Naked Mormonism Podcast (or NMP), Ep #, original air date {{ page.date | date: "%m/%d/%Y" }}"</p>
   </div>
 
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  {%- include pagenav.html -%}
+  <a href="{{site.github.repository_url}}/edit/gh-pages/{{page.path}}">Edit this page on github</a>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-  <a href="{{site.github.repository_url}}/edit/gh-pages/{{page.path}}">Edit this page on github</a>
 </article>
