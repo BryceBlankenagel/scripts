@@ -21,3 +21,5 @@ exclude:
   - Gemfile 
   - Gemfile.lock
   - namo_episodes.tsv
+
+markdown: CommonMarkGhPages
