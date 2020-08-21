@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-8-d-day-david-whitmers-grand-introduction-hiram-pages-rise-fall/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep8-d-day-david-whitmers-grand-introduction-hiram-pages-rise-and-fall
 category: History
-date: 2014-12-19 04:00:00 +0000
+date: 2014-12-18 20:00:00 PST
 ---
 
 Ep8- D-Day David Whitmer's Grand Introduction, Hiram Page's Rise and

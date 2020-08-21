@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-104-book-abraham-spiritual-plus-lesley-butterfield/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-104-book-of-abraham-spiritual-plus-lesley-butterfield
 category: History
-date: 2018-05-25 01:52:36 +0000
+date: 2018-05-24 18:52:36 PDT
 ---
 
 Ep 104 – Book of Abraham Spiritual plus Lesley Butterfield

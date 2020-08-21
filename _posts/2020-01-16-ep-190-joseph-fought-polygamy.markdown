@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-190-joseph-fought-polygamy/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-190-joseph-fought-polygamy
 category: History
-date: 2020-01-17 04:00:00 +0000
+date: 2020-01-16 20:00:00 PST
 ---
 
 Ep 190 – Joseph Fought Polygamy

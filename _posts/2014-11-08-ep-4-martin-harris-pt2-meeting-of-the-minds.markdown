@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-4-martin-harris-pt-2-meeting-minds/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep4-martin-harris-pt2-meeting-of-the-minds
 category: History
-date: 2014-11-09 02:09:42 +0000
+date: 2014-11-08 18:09:42 PST
 ---
 
 Hello,

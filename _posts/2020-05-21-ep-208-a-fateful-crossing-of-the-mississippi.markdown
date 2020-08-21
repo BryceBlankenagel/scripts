@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-208-fateful-crossing-mississippi/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-208-a-fateful-crossing-of-the-mississippi
 category: History
-date: 2020-05-22 03:00:00 +0000
+date: 2020-05-21 20:00:00 PDT
 ---
 
 The Nauvoo Expositor had been destroyed. Lawsuits had been filed. The

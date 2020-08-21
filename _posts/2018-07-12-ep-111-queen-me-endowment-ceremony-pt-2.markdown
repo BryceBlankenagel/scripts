@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-111-queen-endowment-ceremony-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-111-queen-me-endowment-ceremony-pt-2
 category: History
-date: 2018-07-13 02:27:47 +0000
+date: 2018-07-12 19:27:47 PDT
 ---
 
 Eve do you covenant

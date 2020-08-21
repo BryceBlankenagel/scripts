@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-117-miss-nancy-rigdon/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-117-miss-nancy-rigdon
 category: History
-date: 2018-08-24 05:04:18 +0000
+date: 2018-08-23 22:04:18 PDT
 ---
 
 Nancy Green II clip

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-121-bennett-meltdown-pt-1-supercritical/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-121-bennett-meltdown-pt-1-supercritical
 category: History
-date: 2018-09-20 23:00:00 +0000
+date: 2018-09-20 16:00:00 PDT
 ---
 
 Ep 121 – Bennett Meltdown pt. 1 Supercritical

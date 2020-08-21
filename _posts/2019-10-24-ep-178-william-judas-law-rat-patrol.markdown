@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/7691-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-178-william-judas-law-rat-patrol
 category: History
-date: 2019-10-25 02:00:00 +0000
+date: 2019-10-24 19:00:00 PDT
 ---
 
 Ep 178 – William Judas Law; Rat Patrol

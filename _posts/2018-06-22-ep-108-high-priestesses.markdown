@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-108-high-priestesses/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-108-high-priestesses
 category: History
-date: 2018-06-22 16:49:34 +0000
+date: 2018-06-22 09:49:34 PDT
 ---
 
 Jill Derr clip

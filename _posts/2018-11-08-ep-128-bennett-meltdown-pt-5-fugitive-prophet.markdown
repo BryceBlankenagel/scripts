@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-128-bennett-meltdown-pt-5-fugitive-prophet/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-128-bennett-meltdown-pt-5-fugitive-prophet
 category: History
-date: 2018-11-09 04:30:40 +0000
+date: 2018-11-08 20:30:40 PST
 ---
 
 Ep 128 – Bennett Meltdown Pt 5: Fugitive Prophet

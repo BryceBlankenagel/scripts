@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-58-fop-fool-potus/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-58-fop-or-a-fool-for-potus
 category: History
-date: 2017-07-14 05:15:33 +0000
+date: 2017-07-13 22:15:33 PDT
 ---
 
 Ep 58 - Fop or a Fool for POTUS

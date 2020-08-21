@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-195-king-follett-discourse-pt-3-legend-never-dies/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-195-king-follett-discourse-pt-3-a-legend-that-never-dies
 category: History
-date: 2020-02-21 04:00:00 +0000
+date: 2020-02-20 20:00:00 PST
 ---
 
 Ep 195 – King Follett Discourse pt. 3 A Legend that Never Dies

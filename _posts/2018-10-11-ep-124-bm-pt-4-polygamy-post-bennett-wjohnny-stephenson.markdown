@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-124-bennett-meltdown-pt-4-polygamy-post-bennett-wjohnny-stephenson/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-124-bm-pt-4-polygamy-post-bennett-wjohnny-stephenson
 category: History
-date: 2018-10-11 23:00:00 +0000
+date: 2018-10-11 16:00:00 PDT
 ---
 
 Ep 123 – BM pt 3 Polygamy Pre-Bennett w/Johnny Stephenson

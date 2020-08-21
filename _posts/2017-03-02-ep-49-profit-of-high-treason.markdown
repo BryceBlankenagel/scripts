@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-49-profit-high-treason/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-49-profit-of-high-treason
 category: History
-date: 2017-03-03 03:53:53 +0000
+date: 2017-03-02 19:53:53 PST
 ---
 
 Episode 49 – Profit of High Treason

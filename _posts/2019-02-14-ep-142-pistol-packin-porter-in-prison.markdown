@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-142-pistol-packin-porter-prison/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-142-pistol-packin-porter-in-prison
 category: History
-date: 2019-02-15 04:30:00 +0000
+date: 2019-02-14 20:30:00 PST
 ---
 
 Ep 142 – Pistol Packin’ Porter in Prison

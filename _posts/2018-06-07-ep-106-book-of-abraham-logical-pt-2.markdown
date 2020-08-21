@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-106-book-abraham-logical-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-106-book-of-abraham-logical-pt-2
 category: History
-date: 2018-06-08 02:32:36 +0000
+date: 2018-06-07 19:32:36 PDT
 ---
 
 Beginning video clip membership numbers from Nelson

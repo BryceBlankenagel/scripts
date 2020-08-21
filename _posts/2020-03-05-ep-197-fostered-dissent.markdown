@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-197-fostered-dissent/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-197-fostered-dissent
 category: History
-date: 2020-03-06 04:00:00 +0000
+date: 2020-03-05 20:00:00 PST
 ---
 
 Ep 197 – Fostered Dissent

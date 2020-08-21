@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-69-mormon-apologist-debate/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-69-mormon-apologist-debate
 category: History
-date: 2017-09-22 12:45:36 +0000
+date: 2017-09-22 05:45:36 PDT
 ---
 
 Ep 69 – Mormon Apologist Debate

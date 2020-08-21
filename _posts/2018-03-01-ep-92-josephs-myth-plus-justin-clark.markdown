@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-92-josephs-myth-plus-justin-clark/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-92-josephs-myth-plus-justin-clark
 category: History
-date: 2018-03-02 03:41:20 +0000
+date: 2018-03-01 19:41:20 PST
 ---
 
 Ep 92 – Joseph’s Myth Plus Justin Clark

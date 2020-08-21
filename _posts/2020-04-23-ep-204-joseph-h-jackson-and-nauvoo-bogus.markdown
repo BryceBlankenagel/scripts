@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-204-joseph-h-jackson-nauvoo-bogus/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-204-joseph-h-jackson-and-nauvoo-bogus
 category: History
-date: 2020-04-24 03:00:00 +0000
+date: 2020-04-23 20:00:00 PDT
 ---
 
 Ep 204 – Joseph H. Jackson and Nauvoo Bogus

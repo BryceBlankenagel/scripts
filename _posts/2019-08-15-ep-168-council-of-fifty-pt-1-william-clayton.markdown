@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-168-council-fifty-pt-1-william-clayton/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-168-council-of-fifty-pt-1-william-clayton
 category: History
-date: 2019-08-16 03:00:00 +0000
+date: 2019-08-15 20:00:00 PDT
 ---
 
 Ep 168 – Council of Fifty Pt. 1 William Clayton

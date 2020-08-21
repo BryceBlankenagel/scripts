@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-35-joe-swindler-gets-hoodwinked/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-35-joe-the-swindler-gets-hoodwinked
 category: History
-date: 2016-06-24 04:00:00 +0000
+date: 2016-06-23 21:00:00 PDT
 ---
 
 Ep 35 – Joe the Swindler Gets Hoodwinked

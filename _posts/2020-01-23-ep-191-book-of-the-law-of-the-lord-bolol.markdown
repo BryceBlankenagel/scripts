@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-191-book-law-lord-bolol/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-191-book-of-the-law-of-the-lord-bolol
 category: History
-date: 2020-01-24 06:31:54 +0000
+date: 2020-01-23 22:31:54 PST
 ---
 
 Ep 191 – Book of the Law of the Lord (BoLoL)

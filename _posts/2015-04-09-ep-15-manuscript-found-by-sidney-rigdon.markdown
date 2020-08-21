@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-15-manuscript-found-sidney-rigdon/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-15-manuscript-found-by-sidney-rigdon
 category: History
-date: 2015-04-10 01:25:25 +0000
+date: 2015-04-09 18:25:25 PDT
 ---
 
 Episode 15 Manuscript Found by Sidney Rigdon

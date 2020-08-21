@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-115-bennett-jos-kindred-scoundrel/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-115-bennett-jos-kindred-scoundrel
 category: History
-date: 2018-08-10 05:27:47 +0000
+date: 2018-08-09 22:27:47 PDT
 ---
 
 This episode has a patreon only segment for the last 20 mins

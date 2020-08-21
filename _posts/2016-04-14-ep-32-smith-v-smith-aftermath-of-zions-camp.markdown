@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-32-smith-v-smith-aftermath-zions-camp/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-32-smith-v-smith-aftermath-of-zions-camp
 category: History
-date: 2016-04-14 16:25:13 +0000
+date: 2016-04-14 09:25:13 PDT
 ---
 
 Ep 32 – Smith v. Smith Aftermath of Zion's Camp

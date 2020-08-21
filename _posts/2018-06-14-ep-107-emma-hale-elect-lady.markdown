@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-107-emma-hale-elect-lady/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-107-emma-hale-elect-lady
 category: History
-date: 2018-06-15 03:49:33 +0000
+date: 2018-06-14 20:49:33 PDT
 ---
 
 This week’s episode is brought to you by 49dollarsites.com. Use promo

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-171-horse-thief-daniel-avery/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-171-horse-thief-daniel-avery
 category: History
-date: 2019-09-06 03:00:00 +0000
+date: 2019-09-05 20:00:00 PDT
 ---
 
 Ep 171 – Horse Thief Daniel Avery

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-105-book-abraham-logical-pt1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-105-book-of-abraham-logical-pt1
 category: History
-date: 2018-06-01 05:19:26 +0000
+date: 2018-05-31 22:19:26 PDT
 ---
 
 Ep 105 – Book of Abraham Logical pt1

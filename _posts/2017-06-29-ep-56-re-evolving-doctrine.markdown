@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-56-re-evolving-doctrine/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-56-re-evolving-doctrine
 category: History
-date: 2017-06-30 01:18:50 +0000
+date: 2017-06-29 18:18:50 PDT
 ---
 
 Ep 56 – Re-Evolving Doctrine

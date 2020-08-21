@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-185-friendly-hint-missouri/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-185-a-friendly-hint-to-missouri
 category: History
-date: 2019-12-13 04:00:00 +0000
+date: 2019-12-12 20:00:00 PST
 ---
 
 Ep 185 – “A FRIENDLY HINT TO MISSOURI”

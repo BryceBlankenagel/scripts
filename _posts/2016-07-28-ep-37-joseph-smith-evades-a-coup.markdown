@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-37-joseph-smith-evades-coup/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-37-joseph-smith-evades-a-coup
 category: History
-date: 2016-07-29 04:00:00 +0000
+date: 2016-07-28 21:00:00 PDT
 ---
 
 Ep 37 – Joseph Smith Evades a Coup

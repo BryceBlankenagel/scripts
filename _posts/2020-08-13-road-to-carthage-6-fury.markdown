@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-220-road-carthage-6-fury/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-6-fury
 category: RTC
-date: 2020-08-13 23:00:00 EDT
+date: 2020-08-13 20:00:00 PDT
 ---
 
 Road to Carthage 6 - Fury

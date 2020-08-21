@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-72-nauvoo-divine-inspeculation/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-72-nauvoo-divine-inspeculation
 category: History
-date: 2017-10-13 03:06:00 +0000
+date: 2017-10-12 20:06:00 PDT
 ---
 
 This week’s episode of Naked Mormonism is brought to you by Hello Fresh.

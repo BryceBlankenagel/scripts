@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-158-walls-ears/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-158-the-very-walls-had-ears
 category: History
-date: 2019-06-07 03:00:00 +0000
+date: 2019-06-06 20:00:00 PDT
 ---
 
 Ep 158 – The Very Walls Had Ears

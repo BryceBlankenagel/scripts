@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-189-next-mormon-settlement/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-189-the-next-mormon-settlement
 category: History
-date: 2020-01-10 04:00:00 +0000
+date: 2020-01-09 20:00:00 PST
 ---
 
 Ep 189 – The Next Mormon Settlement

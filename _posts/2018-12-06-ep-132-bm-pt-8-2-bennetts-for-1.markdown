@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-132-bennett-meltdown-part-8-2-bennetts-1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-132-bm-pt-8-2-bennetts-for-1
 category: History
-date: 2018-12-07 06:58:56 +0000
+date: 2018-12-06 22:58:56 PST
 ---
 
 Ep 132 – BM Pt. 8 2 Bennetts for 1

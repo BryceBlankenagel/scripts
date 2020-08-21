@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-164-blade-bullet-poison-can-harm/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-164-blade-nor-bullet-nor-poison-can-harm-them
 category: History
-date: 2019-07-19 03:00:00 +0000
+date: 2019-07-18 20:00:00 PDT
 ---
 
 Ep 164 – Blade, Nor Bullet, Nor Poison Can Harm Them

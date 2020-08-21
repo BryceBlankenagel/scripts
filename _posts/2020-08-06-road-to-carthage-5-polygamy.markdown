@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-219-road-carthage-5-polygamy/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-5-polygamy
 category: RTC
-date: 2020-08-07 03:00:00 +0000
+date: 2020-08-06 20:00:00 PDT
 ---
 
 Road to Carthage 5 - Polygamy

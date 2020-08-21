@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-19-priesthood-power-play/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/19-priesthood-power-play
 category: History
-date: 2015-06-19 04:34:28 +0000
+date: 2015-06-18 21:34:28 PDT
 ---
 
 Episode 19 – Priesthood Power Play

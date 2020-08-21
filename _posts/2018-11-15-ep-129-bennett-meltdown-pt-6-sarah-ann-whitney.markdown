@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-129-bennett-meltdown-part-6-sarah-ann-whitney/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-129-bennett-meltdown-pt-6-sarah-ann-whitney
 category: History
-date: 2018-11-16 07:19:55 +0000
+date: 2018-11-15 23:19:55 PST
 ---
 
 Ep 129 – Bennett Meltdown Pt. 6 Sarah Ann Whitney

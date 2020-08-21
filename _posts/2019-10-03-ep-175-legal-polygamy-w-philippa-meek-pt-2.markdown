@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-175-legal-polygamy-w-philippa-meek-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-175-legal-polygamy-w-philippa-meek-pt-2
 category: History
-date: 2019-10-04 02:00:00 +0000
+date: 2019-10-03 19:00:00 PDT
 ---
 
 There are no notes for this episode!

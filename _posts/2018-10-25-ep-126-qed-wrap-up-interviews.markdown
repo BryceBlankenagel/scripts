@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-126-qed-wrap-interviews/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-126-qed-wrap-up-interviews
 category: History
-date: 2018-10-25 22:23:49 +0000
+date: 2018-10-25 15:23:49 PDT
 ---
 
 There are no notes for this episode!

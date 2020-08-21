@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-202-nauvoo-expositor-destruction/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-202-nauvoo-expositor-destruction
 category: History
-date: 2020-04-10 05:22:57 +0000
+date: 2020-04-09 22:22:57 PDT
 ---
 
 Ep 202 – Nauvoo Expositor: Destruction

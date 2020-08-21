@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-138-full-faith-credit-andrew-torrez/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-138-full-faith-and-credit-with-andrew-torrez
 category: History
-date: 2019-01-18 00:33:45 +0000
+date: 2019-01-17 16:33:45 PST
 ---
 
 Jo’s legal troubles

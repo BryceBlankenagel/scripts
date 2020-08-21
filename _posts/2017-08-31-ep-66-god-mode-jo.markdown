@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-66-god-mode-jo/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-66-god-mode-jo
 category: History
-date: 2017-09-01 01:26:16 +0000
+date: 2017-08-31 18:26:16 PDT
 ---
 
 8-31-17

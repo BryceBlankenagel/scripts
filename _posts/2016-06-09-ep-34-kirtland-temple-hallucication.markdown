@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-34-kirtland-temple-hallucication/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-34-kirtland-temple-hallucication
 category: History
-date: 2016-06-10 05:44:54 +0000
+date: 2016-06-09 22:44:54 PDT
 ---
 
 Ep 34 – Kirtland Temple Hallucication

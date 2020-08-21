@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-14-sidneys-rigorous-examination/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep14-sidneys-rigorous-examination
 category: History
-date: 2015-03-27 03:37:23 +0000
+date: 2015-03-26 20:37:23 PDT
 ---
 
 Episode 14 – Sidney's Rigorous examination

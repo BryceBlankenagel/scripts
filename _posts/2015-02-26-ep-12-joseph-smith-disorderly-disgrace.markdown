@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-12-joseph-smith-disorderly-disgrace/
 libsyn_url: http://nakedmormonismpodcast.com/index.html
 category: History
-date: 2015-02-27 05:00:00 +0000
+date: 2015-02-26 21:00:00 PST
 ---
 
 Episode 12

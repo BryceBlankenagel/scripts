@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/cc-mark-hofmann-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/cc-mark-hofmann-pt-2
 category: CC
-date: 2016-08-19 06:35:04 +0000
+date: 2016-08-18 23:35:04 PDT
 ---
 
 CC – Mark Hofmann pt. 2

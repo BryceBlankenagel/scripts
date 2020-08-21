@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-103-book-abraham-physical-plus-jake-farr-wharton/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-103-book-of-abraham-physical-plus-jake-farr-wharton
 category: History
-date: 2018-05-18 03:43:31 +0000
+date: 2018-05-17 20:43:31 PDT
 ---
 
 Ep 103 – Book of Abraham Physical Plus Jake Farr-Wharton

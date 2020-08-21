@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-177-jo-3-0-boy-prophet-seer-revelator/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-177-jo-30-boy-prophet-seer-revelator
 category: History
-date: 2019-10-18 15:16:32 +0000
+date: 2019-10-18 08:16:32 PDT
 ---
 
 Ep 177 – Jo 3.0 Boy Prophet, Seer, & Revelator

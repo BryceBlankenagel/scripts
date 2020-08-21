@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-61-congressional-deafening-listen-ep-61/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-61-congressional-deafening
 category: History
-date: 2017-08-07 03:24:05 +0000
+date: 2017-08-06 20:24:05 PDT
 ---
 
 MLM

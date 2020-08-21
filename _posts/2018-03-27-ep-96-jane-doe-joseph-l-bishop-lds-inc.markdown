@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-96-jane-doe-joseph-l-bishop-lds-inc/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-96-jane-doe-joseph-l-bishop-lds-inc
 category: History
-date: 2018-03-27 08:00:54 +0000
+date: 2018-03-27 01:00:54 PDT
 ---
 
 Ep 96 – Jane Doe, Joseph L. Bishop, LDS Inc.

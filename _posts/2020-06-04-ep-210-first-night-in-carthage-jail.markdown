@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-210-first-night-carthage-jail/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-210-first-night-in-carthage-jail
 category: History
-date: 2020-06-05 03:00:00 +0000
+date: 2020-06-04 20:00:00 PDT
 ---
 
 Ep 210 – First Night in Carthage Jail

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-95-lds-inc/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-95-lds-inc
 category: History
-date: 2018-03-23 02:37:30 +0000
+date: 2018-03-22 19:37:30 PDT
 ---
 
 Last episode said Thomas B. Marsh correct to Robert B. Thompson

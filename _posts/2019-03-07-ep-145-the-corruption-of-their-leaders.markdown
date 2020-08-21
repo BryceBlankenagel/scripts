@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-145-corruption-leaders/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-145-the-corruption-of-their-leaders
 category: History
-date: 2019-03-08 04:30:00 +0000
+date: 2019-03-07 20:30:00 PST
 ---
 
 Ep 145 – The Corruption of Their Leaders

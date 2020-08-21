@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-93-cc-protect-lds-children/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-93-cc-protect-lds-children
 category: History
-date: 2018-03-09 07:10:16 +0000
+date: 2018-03-08 23:10:16 PST
 ---
 
 Ep 93 – CC Protect LDS Children

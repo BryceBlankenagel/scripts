@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-150-helen-mar-kimball/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-150-helen-mar-kimball
 category: History
-date: 2019-04-12 04:23:51 +0000
+date: 2019-04-11 21:23:51 PDT
 ---
 
 Ep 150 – Helen Mar Kimball

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-5-introduction-oliver-cowdery-cowdung-ollover/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep5-oliver-cowdery-cowdung-allover-and-joes-mutual-bapturbation-ritual
 category: History
-date: 2014-11-09 02:39:07 +0000
+date: 2014-11-08 18:39:07 PST
 ---
 
 Hello,

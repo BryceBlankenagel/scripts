@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-211-think-perfectly-safe/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-211-i-think-you-are-perfectly-safe
 category: History
-date: 2020-06-12 03:00:00 +0000
+date: 2020-06-11 20:00:00 PDT
 ---
 
 Joseph Smith, Hyrum Smith, Willard Richards, John Taylor, and some of

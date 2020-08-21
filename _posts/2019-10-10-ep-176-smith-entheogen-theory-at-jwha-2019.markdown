@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-176-smith-entheogen-theory-jwha-2019/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-176-smith-entheogen-theory-at-jwha-2019
 category: History
-date: 2019-10-11 02:00:00 +0000
+date: 2019-10-10 19:00:00 PDT
 ---
 
 Ep 176 – Smith-entheogen Theory at JWHA 2019

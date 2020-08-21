@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-29-doctor-philastus-hurlbut-noah-lugeons/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-29-doctor-philastus-hurlbut-with-noah-lugeons-patreon
 category: History
-date: 2016-03-04 05:43:38 +0000
+date: 2016-03-03 21:43:38 PST
 ---
 
 Episode 29 – Doctor Philastus Hurlbut with Noah Lugeons

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-113-mormon-theocracy-will-bagley-pt-1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-113-mormon-theocracy-with-will-bagley-pt1
 category: History
-date: 2018-07-25 16:57:37 +0000
+date: 2018-07-25 09:57:37 PDT
 ---
 
 Hey Brian

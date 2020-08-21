@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-214-mormonism-infancy/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-214-mormonism-from-its-infancy
 category: History
-date: 2020-07-03 03:00:00 +0000
+date: 2020-07-02 20:00:00 PDT
 ---
 
 Ep 214 – Mormonism From Its Infancy

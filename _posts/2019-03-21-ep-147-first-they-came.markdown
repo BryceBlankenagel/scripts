@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-147-first-came/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-147-first-they-came
 category: History
-date: 2019-03-22 03:30:00 +0000
+date: 2019-03-21 20:30:00 PDT
 ---
 
 Ep 147 – First They Came

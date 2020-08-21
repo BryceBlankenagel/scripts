@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-187-entheogenic-origins-mormonism-working-hypothesis-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-187-the-entheogenic-origins-of-mormonism-a-working-hypothesis-pt2
 category: History
-date: 2019-12-27 04:00:00 +0000
+date: 2019-12-26 20:00:00 PST
 ---
 
 Ep 187 – The Entheogenic Origins of Mormonism: A Working Hypothesis pt.2

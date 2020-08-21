@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-207-blood-shed/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-207-his-blood-would-be-shed
 category: History
-date: 2020-05-15 03:00:00 +0000
+date: 2020-05-14 20:00:00 PDT
 ---
 
 Ep 207 – “His Blood Would Be Shed”

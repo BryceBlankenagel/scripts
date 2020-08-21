@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/ep-99-ive-enough-trouble-thing/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-99-ive-had-enough-trouble-with-this-thing
 category: History
-date: 2018-04-20 02:04:21 +0000
+date: 2018-04-19 19:04:21 PDT
 ---
 
 Red text = audio bumpers

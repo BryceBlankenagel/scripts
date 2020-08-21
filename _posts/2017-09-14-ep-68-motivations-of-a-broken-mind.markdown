@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-68-motivations-broken-mind/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-68-motivations-of-a-broken-mind
 category: History
-date: 2017-09-15 03:33:50 +0000
+date: 2017-09-14 20:33:50 PDT
 ---
 
 Ep 68 – Motivations of a Broken Mind

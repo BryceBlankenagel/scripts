@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-77-army-raise-temple/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-77-an-army-to-raise-a-temple
 category: History
-date: 2017-11-17 03:52:43 +0000
+date: 2017-11-16 19:52:43 PST
 ---
 
 Ep 77 – An Army to Raise a Temple

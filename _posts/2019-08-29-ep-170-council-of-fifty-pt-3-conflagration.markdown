@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-170-council-fifty-pt-3-conflagration/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-170-council-of-fifty-pt-3-conflagration
 category: History
-date: 2019-08-30 03:00:00 +0000
+date: 2019-08-29 20:00:00 PDT
 ---
 
 Ep 170 – Council of Fifty Pt. 3 Conflagration

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-70-illinois-theocracy-geisner-shepherd-marquardt/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-70-illinois-theocracy-with-geisner-shepherd-marquardt
 category: History
-date: 2017-09-28 23:00:46 +0000
+date: 2017-09-28 16:00:46 PDT
 ---
 
 Intro 9/28/17

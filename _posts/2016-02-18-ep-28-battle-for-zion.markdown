@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/%e2%80%8bepisode-28-battle-zion/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-28-battle-for-zion
 category: History
-date: 2016-02-19 05:26:18 +0000
+date: 2016-02-18 21:26:18 PST
 ---
 
 Ep 28 – Battle for Zion 

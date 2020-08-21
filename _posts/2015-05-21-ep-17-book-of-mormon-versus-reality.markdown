@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-17-book-mormon-versus-reality/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/episode-17-book-of-mormon-versus-reality
 category: History
-date: 2015-05-22 04:16:56 +0000
+date: 2015-05-21 21:16:56 PDT
 ---
 
 On this episode, we dive back into the world of Joseph Smith to find out

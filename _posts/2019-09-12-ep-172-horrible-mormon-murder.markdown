@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-172-horrible-mormon-murder/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-172-horrible-mormon-murder
 category: History
-date: 2019-09-13 03:00:00 +0000
+date: 2019-09-12 20:00:00 PDT
 ---
 
 Ep 172 – HORRIBLE MORMON MURDER

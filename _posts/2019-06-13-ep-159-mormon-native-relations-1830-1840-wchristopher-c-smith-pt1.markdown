@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-159-mormon-native-relations-1830-1840-wchristopher-c-smith-pt-1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-159-mormon-native-relations-1830-1840-wchristopher-c-smith-pt1
 category: History
-date: 2019-06-13 16:21:18 +0000
+date: 2019-06-13 09:21:18 PDT
 ---
 
 Ep 159 – Mormon-Native Relations 1830-1840 w/Christopher C. Smith Pt.1

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-88-joseph-smith-arrested/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-88-joseph-smith-arrested-again
 category: History
-date: 2018-02-02 03:25:45 +0000
+date: 2018-02-01 19:25:45 PST
 ---
 
 2/1/18

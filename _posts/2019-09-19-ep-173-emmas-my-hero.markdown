@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-173-emmas-hero/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-173-emmas-my-hero
 category: History
-date: 2019-09-20 02:00:00 +0000
+date: 2019-09-19 19:00:00 PDT
 ---
 
 Hey listeners, I know many of you turn the show off after the main

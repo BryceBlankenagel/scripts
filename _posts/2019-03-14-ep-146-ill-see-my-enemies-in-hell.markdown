@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-146-ill-see-enemies-hell/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-146-ill-see-my-enemies-in-hell
 category: History
-date: 2019-03-15 04:30:52 +0000
+date: 2019-03-14 21:30:52 PDT
 ---
 
 Ep 146 – I’ll See My Enemies in Hell

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-209-will-reconciled-fate/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-209-we-will-be-reconciled-to-our-fate
 category: History
-date: 2020-05-29 03:00:00 +0000
+date: 2020-05-28 20:00:00 PDT
 ---
 
 Ep 209 – “We Will Be Reconciled to Our Fate”

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-45-militant-seekers-truth/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-45-militant-seekers-of-truth
 category: History
-date: 2017-01-06 04:02:24 +0000
+date: 2017-01-05 20:02:24 PST
 ---
 
 Ep 45 – Militant Seekers of Truth

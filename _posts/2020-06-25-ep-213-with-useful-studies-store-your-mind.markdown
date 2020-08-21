@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-213-useful-studies-store-mind/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-213-with-useful-studies-store-your-mind
 category: History
-date: 2020-06-26 03:00:00 +0000
+date: 2020-06-25 20:00:00 PDT
 ---
 
 Joseph and Hyrum Smith are in Carthage jail. They aren’t going anywhere,

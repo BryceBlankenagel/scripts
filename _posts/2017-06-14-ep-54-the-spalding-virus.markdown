@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-54-spalding-virus/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-54-the-spalding-virus
 category: History
-date: 2017-06-15 01:35:26 +0000
+date: 2017-06-14 18:35:26 PDT
 ---
 
 Ep 54 – The Spalding Virus

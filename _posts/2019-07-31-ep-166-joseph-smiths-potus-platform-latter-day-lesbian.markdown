@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-166-joseph-smiths-potus-platform-latter-day-lesbian/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-166-joseph-smiths-potus-platform-latter-day-lesbian
 category: History
-date: 2019-07-31 13:36:50 +0000
+date: 2019-07-31 06:36:50 PDT
 ---
 
 Ep 166 – Joseph Smith’s POTUS Platform

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/%e2%80%8bepisode-89-pass-go-collect-60-bodyguards/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-89-pass-go-collect-60-bodyguards
 category: History
-date: 2018-02-09 07:10:57 +0000
+date: 2018-02-08 23:10:57 PST
 ---
 
 Ep 89 – Pass Go Collect 60 Bodyguards

@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/special-edition-episode-10-rot-hell-boyd-k-packer/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/spedep-10-rot-in-hell-boyd-k-packer
 category: SpEdEp
-date: 2015-07-31 01:28:39 +0000
+date: 2015-07-30 18:28:39 PDT
 ---
 
 SpEdEp 10 – ROT IN HELL\!\!\! Boyd K. Packer
