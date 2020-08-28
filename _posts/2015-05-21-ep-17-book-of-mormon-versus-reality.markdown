@@ -4,6 +4,8 @@ title: >
     Ep 17 - Book of Mormon Versus Reality
 episode_url: https://nakedmormonismpodcast.com/episode-17-book-mormon-versus-reality/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/episode-17-book-of-mormon-versus-reality
+libsyn_embed: 3569864
+
 category: History
 date: 2015-05-21 21:16:56 PDT
 ---

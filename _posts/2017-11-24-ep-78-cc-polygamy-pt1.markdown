@@ -4,6 +4,8 @@ title: >
     Ep 78 - CC Polygamy Pt1
 episode_url: https://nakedmormonismpodcast.com/episode-78-cc-polygamy-pt1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-78-cc-polygamy-pt1
+libsyn_embed: 5977347
+
 category: History
 date: 2017-11-24 15:17:29 PST
 ---

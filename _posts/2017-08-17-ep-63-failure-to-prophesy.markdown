@@ -4,6 +4,8 @@ title: >
     Ep 63 - Failure to Prophesy
 episode_url: https://nakedmormonismpodcast.com/episode-63-failure-prophesy/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-63-failure-to-prophesy
+libsyn_embed: 5654213
+
 category: History
 date: 2017-08-17 19:17:11 PDT
 ---

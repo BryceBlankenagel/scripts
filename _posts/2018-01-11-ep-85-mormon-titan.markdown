@@ -4,6 +4,8 @@ title: >
     Ep 85 - Mormon Titan
 episode_url: https://nakedmormonismpodcast.com/episode-85-mormon-titan/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-85-mormon-titan
+libsyn_embed: 6141300
+
 category: History
 date: 2018-01-11 20:39:10 PST
 ---

@@ -4,6 +4,8 @@ title: >
     Ep 98 - Standard Operating Protectionism
 episode_url: https://nakedmormonismpodcast.com/episode-98-standard-operating-protectionism/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-98-standard-operating-protectionism
+libsyn_embed: 6476472
+
 category: History
 date: 2018-04-12 20:50:41 PDT
 ---

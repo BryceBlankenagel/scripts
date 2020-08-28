@@ -4,6 +4,8 @@ title: >
     Ep 196 - Joseph Smith Assassination Plot
 episode_url: https://nakedmormonismpodcast.com/episode-196-joseph-smith-assassination-plot/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-196-joseph-smith-assassination-plot
+libsyn_embed: 13336523
+
 category: History
 date: 2020-02-27 20:00:00 PST
 ---

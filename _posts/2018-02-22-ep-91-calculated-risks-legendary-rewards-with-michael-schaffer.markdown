@@ -4,6 +4,8 @@ title: >
     Ep 91 - Calculated Risks, Legendary Rewards with Michael Schaffer
 episode_url: https://nakedmormonismpodcast.com/episode-91-calculated-risks-legendary-rewards-michael-schaffer/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-91-calculated-risks-legendary-rewards-with-michael-schaffer
+libsyn_embed: 6292473
+
 category: History
 date: 2018-02-22 20:38:31 PST
 ---

@@ -4,6 +4,8 @@ title: >
     Ep 76 - Blasphemers Beware
 episode_url: https://nakedmormonismpodcast.com/episode-76-blasphemers-beware/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-76-blasphemers-beware
+libsyn_embed: 5930694
+
 category: History
 date: 2017-11-09 18:14:23 PST
 ---

@@ -4,6 +4,8 @@ title: >
     Ep 47 - Executive Order: Atrocity with Andrew Torrez
 episode_url: https://nakedmormonismpodcast.com/episode-47-executive-order-atrocity-andrew-torrez/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-47-executive-order-atrocity-with-andrew-torrez
+libsyn_embed: 5053676
+
 category: History
 date: 2017-02-03 13:01:47 PST
 ---

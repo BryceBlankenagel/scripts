@@ -4,6 +4,8 @@ title: >
     Ep 109 - Boggs Bites Port’s Bullet
 episode_url: https://nakedmormonismpodcast.com/episode-109-boggs-bites-ports-bullet/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-109-boggs-bites-ports-bullet
+libsyn_embed: 6756886
+
 category: History
 date: 2018-06-28 21:29:13 PDT
 ---

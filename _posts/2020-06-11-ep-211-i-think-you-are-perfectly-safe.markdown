@@ -4,6 +4,8 @@ title: >
     Ep 211 - “I Think You Are Perfectly Safe”
 episode_url: https://nakedmormonismpodcast.com/episode-211-think-perfectly-safe/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-211-i-think-you-are-perfectly-safe
+libsyn_embed: 14793311
+
 category: History
 date: 2020-06-11 20:00:00 PDT
 ---

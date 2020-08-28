@@ -4,6 +4,8 @@ title: >
     Ep 7 - Polygamy Special Pt. 2 Joe and all his bro’s and their hoe’s!
 episode_url: https://nakedmormonismpodcast.com/episode-7-polygamy-special-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep7-polygamy-special-pt-2-joe-and-all-his-bros-and-their-hoes
+libsyn_embed: 3223556
+
 category: History
 date: 2014-12-06 11:43:03 PST
 ---

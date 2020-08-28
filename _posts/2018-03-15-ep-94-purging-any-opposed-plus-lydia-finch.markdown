@@ -4,6 +4,8 @@ title: >
     Ep 94 - Purging Any Opposed Plus Lydia Finch
 episode_url: https://nakedmormonismpodcast.com/episode-94-purging-opposed-plus-lydia-finch/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-94-purging-any-opposed-plus-lydia-finch
+libsyn_embed: 6371876
+
 category: History
 date: 2018-03-15 20:50:43 PDT
 ---

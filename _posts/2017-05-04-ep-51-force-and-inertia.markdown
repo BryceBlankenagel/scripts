@@ -4,6 +4,8 @@ title: >
     Ep 51 -  Force and Inertia
 episode_url: https://nakedmormonismpodcast.com/episode-51-force-inertia/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-51-force-and-inertia
+libsyn_embed: 5328837
+
 category: History
 date: 2017-05-04 19:05:18 PDT
 ---

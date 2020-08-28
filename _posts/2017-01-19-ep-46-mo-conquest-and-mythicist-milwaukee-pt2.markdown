@@ -4,6 +4,8 @@ title: >
     Ep 46 - Mo Conquest and Mythicist Milwaukee pt2
 episode_url: https://nakedmormonismpodcast.com/episode-46-mo-conquest-mythicist-milwaukee-pt2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-46-mo-conquest-and-mythicist-milwaukee-pt2
+libsyn_embed: 5008904
+
 category: History
 date: 2017-01-19 20:14:11 PST
 ---

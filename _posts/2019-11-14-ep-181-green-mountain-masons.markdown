@@ -4,6 +4,8 @@ title: >
     Ep 181 - Green Mountain Masons
 episode_url: https://nakedmormonismpodcast.com/episode-181-green-mountain-masons/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-181-green-mountain-masons
+libsyn_embed: 12043958
+
 category: History
 date: 2019-11-14 20:00:00 PST
 ---

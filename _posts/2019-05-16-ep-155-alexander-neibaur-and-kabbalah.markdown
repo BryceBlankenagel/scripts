@@ -4,6 +4,8 @@ title: >
     Ep 155 - Alexander Neibaur and Kabbalah
 episode_url: https://nakedmormonismpodcast.com/episode-155-alexander-neibaur-kabbalah/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-155-alexander-neibaur-and-kabbalah
+libsyn_embed: 9817247
+
 category: History
 date: 2019-05-16 19:00:00 PDT
 ---

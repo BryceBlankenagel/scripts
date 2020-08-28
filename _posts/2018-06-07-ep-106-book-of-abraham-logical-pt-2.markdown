@@ -4,6 +4,8 @@ title: >
     Ep 106 - Book of Abraham Logical pt 2
 episode_url: https://nakedmormonismpodcast.com/ep-106-book-abraham-logical-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-106-book-of-abraham-logical-pt-2
+libsyn_embed: 6681552
+
 category: History
 date: 2018-06-07 19:32:36 PDT
 ---

@@ -4,6 +4,8 @@ title: >
     Ep 97 - Lawsuits, Politics, and Temples
 episode_url: https://nakedmormonismpodcast.com/episode-97-lawsuits-politics-temples/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-97-lawsuits-politics-and-temples
+libsyn_embed: 6451542
+
 category: History
 date: 2018-04-06 00:01:18 PDT
 ---

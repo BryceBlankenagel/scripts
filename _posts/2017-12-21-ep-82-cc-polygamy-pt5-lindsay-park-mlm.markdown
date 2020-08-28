@@ -4,6 +4,8 @@ title: >
     Ep 82 - CC Polygamy Pt5 Lindsay Park & MLM
 episode_url: https://nakedmormonismpodcast.com/episode-82-cc-polygamy-pt5-lindsay-park-mlm/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-82-cc-polygamy-pt5-lindsay-park-mlm
+libsyn_embed: 6079699
+
 category: History
 date: 2017-12-21 11:03:10 PST
 ---

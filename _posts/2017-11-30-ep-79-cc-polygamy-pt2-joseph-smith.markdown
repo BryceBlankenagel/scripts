@@ -4,6 +4,8 @@ title: >
     Ep 79 - CC Polygamy Pt2 Joseph Smith
 episode_url: https://nakedmormonismpodcast.com/episode-79-cc-polygamy-pt2-joseph-smith/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-79-cc-polygamy-pt2-joseph-smith
+libsyn_embed: 5998969
+
 category: History
 date: 2017-11-30 23:12:22 PST
 ---

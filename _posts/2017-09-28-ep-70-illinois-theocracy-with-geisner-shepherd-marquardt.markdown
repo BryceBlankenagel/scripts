@@ -4,6 +4,8 @@ title: >
     Ep 70 - Illinois Theocracy with Geisner, Shepherd, Marquardt
 episode_url: https://nakedmormonismpodcast.com/episode-70-illinois-theocracy-geisner-shepherd-marquardt/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-70-illinois-theocracy-with-geisner-shepherd-marquardt
+libsyn_embed: 5788271
+
 category: History
 date: 2017-09-28 16:00:46 PDT
 ---

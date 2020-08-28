@@ -4,6 +4,8 @@ title: >
     Ep 72 - Nauvoo: Divine Inspeculation
 episode_url: https://nakedmormonismpodcast.com/episode-72-nauvoo-divine-inspeculation/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-72-nauvoo-divine-inspeculation
+libsyn_embed: 5836224
+
 category: History
 date: 2017-10-12 20:06:00 PDT
 ---

@@ -4,6 +4,8 @@ title: >
     Ep 40 - Second Mass Exodus plus Marie from My BoM!
 episode_url: https://nakedmormonismpodcast.com/episode-40-second-mass-exodus-plus-marie-bom/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-40-second-mass-exodus-plus-marie-from-my-bom
+libsyn_embed: 4744219
+
 category: History
 date: 2016-10-13 22:48:07 PDT
 ---

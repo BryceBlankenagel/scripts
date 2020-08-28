@@ -4,6 +4,8 @@ title: >
     Ep 133 - BM Pt. 9 Moral or Physical Force
 episode_url: https://nakedmormonismpodcast.com/episode-133-bennett-meltdown-part-9-moral-physical-force/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-133-bm-pt-9-moral-or-physical-force
+libsyn_embed: 7917224
+
 category: History
 date: 2018-12-13 23:34:20 PST
 ---

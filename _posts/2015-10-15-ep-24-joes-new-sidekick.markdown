@@ -4,6 +4,8 @@ title: >
     Ep 24 - Joe’s New Sidekick
 episode_url: https://nakedmormonismpodcast.com/episode-24-joes-new-sidekick/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-24-joes-new-sidekick
+libsyn_embed: 3866858
+
 category: History
 date: 2015-10-15 21:19:05 PDT
 ---

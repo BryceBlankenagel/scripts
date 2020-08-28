@@ -4,6 +4,8 @@ title: >
     Ep 163 - Live and Die by the Law
 episode_url: https://nakedmormonismpodcast.com/episode-163-live-die-law/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/episode-163-live-and-die-by-the-law
+libsyn_embed: 10493795
+
 category: History
 date: 2019-07-11 21:11:17 PDT
 ---

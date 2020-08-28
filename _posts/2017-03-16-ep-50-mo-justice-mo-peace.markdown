@@ -4,6 +4,8 @@ title: >
     Ep 50 - Mo Justice Mo Peace
 episode_url: https://nakedmormonismpodcast.com/episode-50-mo-justice-mo-peace/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-50-mo-justice-mo-peace
+libsyn_embed: 5178111
+
 category: History
 date: 2017-03-16 22:40:49 PDT
 ---

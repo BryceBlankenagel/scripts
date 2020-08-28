@@ -4,6 +4,8 @@ title: >
     Ep 115 - Bennett, Jo’s Kindred Scoundrel
 episode_url: https://nakedmormonismpodcast.com/episode-115-bennett-jos-kindred-scoundrel/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-115-bennett-jos-kindred-scoundrel
+libsyn_embed: 6909415
+
 category: History
 date: 2018-08-09 22:27:47 PDT
 ---

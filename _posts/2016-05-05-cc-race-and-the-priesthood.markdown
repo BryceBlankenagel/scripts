@@ -4,6 +4,8 @@ title: >
     CC - Race and the Priesthood
 episode_url: https://nakedmormonismpodcast.com/cc-race-priesthood/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/cc-race-and-the-priesthood
+libsyn_embed: 4348486
+
 category: CC
 date: 2016-05-05 21:02:00 PDT
 ---

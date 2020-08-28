@@ -4,6 +4,8 @@ title: >
     Ep 213 - With Useful Studies Store Your Mind
 episode_url: https://nakedmormonismpodcast.com/episode-213-useful-studies-store-mind/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-213-with-useful-studies-store-your-mind
+libsyn_embed: 14974604
+
 category: History
 date: 2020-06-25 20:00:00 PDT
 ---

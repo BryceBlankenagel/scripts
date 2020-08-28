@@ -4,6 +4,7 @@ title: >
     Road to Carthage 8 - The Final Hour
 episode_url: https://nakedmormonismpodcast.com/episode-222-road-carthage-8-final-hour/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-8-the-final-hour
+libsyn_embed: 15788255
 category: RTC
 date: 2020-08-27 20:00:00 PDT
 ---
@@ -280,7 +281,7 @@ prisoners received more information.
 > forbidid it.\<​,​\> ... should the last extreme arrive,— <u>but I
 > anticipate no such extreme</u>,— but caution is the parent of safety.—
 > 
-> ![](media/image1.png)Joseph Smith
+> Joseph Smith
 > 
 > P. S. Dear
 > [<u>Emma</u>](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-27-june-1844/1#15010616669017828000),
@@ -295,7 +296,7 @@ prisoners received more information.
 > 
 > Joseph Smith
 > 
-> ![](media/image2.png)P. S. 20 mi to 10— I Just learn that the
+> P. S. 20 mi to 10— I Just learn that the
 > [<u>Governor</u>](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-27-june-1844/1#4984339090570957876)
 > is about to disband his troops,— all but a guard to protect us and the
 > peace,— and come himself to

@@ -4,6 +4,8 @@ title: >
     Ep 27 - Broadsword, Javelin, Bowie Knife, and a Bucket of Crazy
 episode_url: https://nakedmormonismpodcast.com/episode-27-broadsword-javelin-bowie-knife-bucket-crazy/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-27-broadsword-javelin-bowie-knife-and-a-bucket-of-crazy
+libsyn_embed: 4127520
+
 category: History
 date: 2016-02-04 19:07:51 PST
 ---

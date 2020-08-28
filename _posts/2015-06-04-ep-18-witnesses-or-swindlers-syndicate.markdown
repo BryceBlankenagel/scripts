@@ -4,6 +4,8 @@ title: >
     Ep 18 - Witnesses? Or Swindlers Syndicate?
 episode_url: https://nakedmormonismpodcast.com/episode-18-witnesses-swindlers-syndicate/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/episode-18-witnesses-or-swindlers-syndicate
+libsyn_embed: 3597558
+
 category: History
 date: 2015-06-04 16:55:49 PDT
 ---

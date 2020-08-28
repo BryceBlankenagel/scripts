@@ -4,6 +4,8 @@ title: >
     Ep 111 - Queen Me! Endowment Ceremony pt. 2
 episode_url: https://nakedmormonismpodcast.com/episode-111-queen-endowment-ceremony-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-111-queen-me-endowment-ceremony-pt-2
+libsyn_embed: 6804764
+
 category: History
 date: 2018-07-12 19:27:47 PDT
 ---

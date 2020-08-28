@@ -4,6 +4,8 @@ title: >
     Ep 67 - Perception Check
 episode_url: https://nakedmormonismpodcast.com/episode-67-perception-check/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-67-perception-check
+libsyn_embed: 5719298
+
 category: History
 date: 2017-09-07 17:38:57 PDT
 ---

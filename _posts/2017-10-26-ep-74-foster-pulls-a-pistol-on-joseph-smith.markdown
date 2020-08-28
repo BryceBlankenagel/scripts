@@ -4,6 +4,8 @@ title: >
     Ep 74 - Foster Pulls a Pistol on Joseph Smith
 episode_url: https://nakedmormonismpodcast.com/episode-74-foster-pulls-pistol-joseph-smith/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-74-foster-pulls-a-pistol-on-joseph-smith
+libsyn_embed: 5882309
+
 category: History
 date: 2017-10-26 19:33:47 PDT
 ---

@@ -4,6 +4,8 @@ title: >
     Ep 53 - Bloody’s Play While Jo’s Away
 episode_url: https://nakedmormonismpodcast.com/episode-53-bloodys-play-jos-away/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-53-bloodys-play-while-jos-away
+libsyn_embed: 5411767
+
 category: History
 date: 2017-06-01 20:14:46 PDT
 ---

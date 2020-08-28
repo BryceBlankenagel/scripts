@@ -4,6 +4,8 @@ title: >
     Ep 48 - Haun’s Mill Massacre
 episode_url: https://nakedmormonismpodcast.com/episode-48-hauns-mill-massacre-listen-ep-48/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-48-hauns-mill-massacre
+libsyn_embed: 5093212
+
 category: History
 date: 2017-02-16 20:02:51 PST
 ---

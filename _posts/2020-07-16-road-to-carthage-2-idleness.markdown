@@ -4,6 +4,8 @@ title: >
     Road to Carthage 2 - Idleness
 episode_url: https://nakedmormonismpodcast.com/episode-216-road-carthage-2-idleness/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-2-idleness
+libsyn_embed: 15244409
+
 category: RTC
 date: 2020-07-16 20:00:00 PDT
 ---

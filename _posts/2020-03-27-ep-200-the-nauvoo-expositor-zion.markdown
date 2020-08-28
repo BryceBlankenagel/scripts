@@ -4,6 +4,8 @@ title: >
     Ep 200 - The Nauvoo Expositor & Zion
 episode_url: https://nakedmormonismpodcast.com/episode-200-nauvoo-expositor-zion/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-200-the-nauvoo-expositor-zion
+libsyn_embed: 13725662
+
 category: History
 date: 2020-03-27 01:47:37 PDT
 ---

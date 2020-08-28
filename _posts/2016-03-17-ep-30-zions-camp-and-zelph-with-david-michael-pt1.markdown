@@ -4,6 +4,8 @@ title: >
     Ep 30 - Zion’s Camp and Zelph with David Michael pt1
 episode_url: https://nakedmormonismpodcast.com/episode-30-zions-camp-zelph-david-michael-pt-1-listen-episode-30/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-30-zions-camp-and-zelph-with-david-michael-pt1
+libsyn_embed: 4229587
+
 category: History
 date: 2016-03-17 20:57:54 PDT
 ---

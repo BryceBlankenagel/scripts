@@ -4,6 +4,8 @@ title: >
     Ep 102 - Mother’s Day, The Virtues of Our Legacy
 episode_url: https://nakedmormonismpodcast.com/episode-102-mothers-day-virtues-legacy/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-102-mothers-day-the-virtues-of-our-legacy
+libsyn_embed: 6581248
+
 category: History
 date: 2018-05-10 20:37:22 PDT
 ---

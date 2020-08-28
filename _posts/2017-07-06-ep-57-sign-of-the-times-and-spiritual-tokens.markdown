@@ -4,6 +4,8 @@ title: >
     Ep 57 - Sign of the Times and Spiritual Tokens
 episode_url: https://nakedmormonismpodcast.com/episode-57-sign-times-spiritual-tokens/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-57-sign-of-the-times-and-spiritual-tokens
+libsyn_embed: 5514953
+
 category: History
 date: 2017-07-06 21:23:57 PDT
 ---

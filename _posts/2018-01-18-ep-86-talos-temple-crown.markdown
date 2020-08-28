@@ -4,6 +4,8 @@ title: >
     Ep 86 - Talos’ Temple Crown
 episode_url: https://nakedmormonismpodcast.com/episode-86-talos-temple-crown/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-86-talos-temple-crown
+libsyn_embed: 6166155
+
 category: History
 date: 2018-01-18 21:53:00 PST
 ---

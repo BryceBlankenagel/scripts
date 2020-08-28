@@ -4,6 +4,8 @@ title: >
     Ep 52 - Liberty Love Letters
 episode_url: https://nakedmormonismpodcast.com/episode-52-liberty-love-letters/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-52-liberty-love-letters
+libsyn_embed: 5370342
+
 category: History
 date: 2017-05-18 18:23:18 PDT
 ---

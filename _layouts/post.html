@@ -30,6 +30,9 @@ layout: default
     {%- if page.episode_url -%}
       <p><a href="{{ page.episode_url }}">Episode Page</a></p>
     {%- endif -%}
+    {%- if page.libsyn_embed -%}
+      {%- include libsyn.html -%}
+    {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

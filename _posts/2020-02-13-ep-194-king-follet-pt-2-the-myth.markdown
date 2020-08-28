@@ -4,6 +4,8 @@ title: >
     Ep 194 - King Follet pt. 2 The Myth
 episode_url: https://nakedmormonismpodcast.com/episode-194-king-follet-pt-2-myth/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-194-king-follet-pt-2-the-myth
+libsyn_embed: 13150232
+
 category: History
 date: 2020-02-13 22:34:48 PST
 ---

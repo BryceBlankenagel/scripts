@@ -4,6 +4,8 @@ title: >
     Ep 143 - Kinderhoax Plates
 episode_url: https://nakedmormonismpodcast.com/episode-143-kinderhoax-plates/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-143-kinderhoax-plates
+libsyn_embed: 8740691
+
 category: History
 date: 2019-02-21 20:30:00 PST
 ---

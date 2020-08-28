@@ -4,6 +4,8 @@ title: >
     Ep 2 - Emma Smith Blushing Bride Mafia Wife
 episode_url: https://nakedmormonismpodcast.com/episode-2-emma-smith-blushing-bride-mafia-wife/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep2-emma-smith-blushing-bride-mafia-wife
+libsyn_embed: 3169108
+
 category: History
 date: 2014-11-08 17:37:47 PST
 ---

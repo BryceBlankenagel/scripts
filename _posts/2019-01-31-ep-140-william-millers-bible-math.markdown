@@ -4,6 +4,8 @@ title: >
     Ep 140 - William Miller’s Bible Math
 episode_url: https://nakedmormonismpodcast.com/episode-140-william-millers-bible-math/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-140-william-millers-bible-math
+libsyn_embed: 8476445
+
 category: History
 date: 2019-01-31 20:00:00 PST
 ---

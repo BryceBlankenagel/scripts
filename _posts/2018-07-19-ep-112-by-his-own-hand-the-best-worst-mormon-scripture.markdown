@@ -4,6 +4,8 @@ title: >
     Ep 112 - By His Own Hand, the Best-Worst Mormon Scripture
 episode_url: https://nakedmormonismpodcast.com/episode-112-hand-best-worst-mormon-scripture/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-112-by-his-own-hand-the-best-worst-mormon-scripture
+libsyn_embed: 6832611
+
 category: History
 date: 2018-07-19 22:19:03 PDT
 ---

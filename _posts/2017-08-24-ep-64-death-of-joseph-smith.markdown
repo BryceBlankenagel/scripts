@@ -4,6 +4,8 @@ title: >
     Ep 64 - Death of Joseph Smith
 episode_url: https://nakedmormonismpodcast.com/episode-64-death-joseph-smith/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-64-death-of-joseph-smith
+libsyn_embed: 5674391
+
 category: History
 date: 2017-08-24 17:23:47 PDT
 ---

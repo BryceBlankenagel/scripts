@@ -4,6 +4,8 @@ title: >
     Ep 141 - Plight of the Unwed Mother
 episode_url: https://nakedmormonismpodcast.com/episode-141-plight-unwed-mother/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-141-plight-of-the-unwed-mother
+libsyn_embed: 8566457
+
 category: History
 date: 2019-02-07 20:00:00 PST
 ---

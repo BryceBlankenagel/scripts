@@ -4,6 +4,8 @@ title: >
     Ep 87 - Greener Grass in Nauvoo
 episode_url: https://nakedmormonismpodcast.com/episode-87-greener-grass-nauvoo/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-87-greener-grass-in-nauvoo
+libsyn_embed: 6191020
+
 category: History
 date: 2018-01-25 20:06:28 PST
 ---

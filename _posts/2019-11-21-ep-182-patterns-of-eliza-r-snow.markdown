@@ -4,6 +4,8 @@ title: >
     Ep 182 - Patterns of Eliza R. Snow
 episode_url: https://nakedmormonismpodcast.com/episode-182-patterns-eliza-r-snow/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-182-patterns-of-eliza-r-snow
+libsyn_embed: 12132863
+
 category: History
 date: 2019-11-21 20:00:00 PST
 ---

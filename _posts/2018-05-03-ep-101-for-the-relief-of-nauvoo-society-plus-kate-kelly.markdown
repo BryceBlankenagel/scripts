@@ -4,6 +4,8 @@ title: >
     Ep 101 - For the Relief of Nauvoo Society plus Kate Kelly
 episode_url: https://nakedmormonismpodcast.com/episode-101-relief-nauvoo-society-plus-kate-kelly/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-101-for-the-relief-of-nauvoo-society-plus-kate-kelly
+libsyn_embed: 6554883
+
 category: History
 date: 2018-05-03 20:24:52 PDT
 ---

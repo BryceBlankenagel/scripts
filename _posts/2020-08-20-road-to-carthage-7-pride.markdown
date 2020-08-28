@@ -4,6 +4,8 @@ title: >
     Road to Carthage 7 – Pride
 episode_url: https://nakedmormonismpodcast.com/episode-221-road-carthage-7-pride/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-7-pride
+libsyn_embed: 15699083
+
 category: RTC
 date: 2020-08-20 20:00:00 PDT
 ---

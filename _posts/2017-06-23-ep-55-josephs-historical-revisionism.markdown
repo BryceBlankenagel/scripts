@@ -4,6 +4,8 @@ title: >
     Ep 55 - Joseph’s Historical Revisionism
 episode_url: https://nakedmormonismpodcast.com/episode-55-josephs-historical-revisionism/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-55-josephs-historical-revisionism
+libsyn_embed: 5474962
+
 category: History
 date: 2017-06-23 07:34:51 PDT
 ---

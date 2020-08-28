@@ -4,6 +4,8 @@ title: >
     Ep 137 - Emma’s Stairway to Hell
 episode_url: https://nakedmormonismpodcast.com/episode-137-emmas-stairway-hell/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-137-emma-stairway-to-hell
+libsyn_embed: 8217638
+
 category: History
 date: 2019-01-10 23:31:52 PST
 ---

@@ -4,6 +4,8 @@ title: >
     Ep 23 - Joe the Firefighter
 episode_url: https://nakedmormonismpodcast.com/episode-23-joe-firefighter/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-23-joe-the-firefighter
+libsyn_embed: 3820697
+
 category: History
 date: 2015-09-24 18:19:14 PDT
 ---

@@ -4,6 +4,8 @@ title: >
     Road to Carthage 3 - Voracity
 episode_url: https://nakedmormonismpodcast.com/episode-217-road-carthage-3-voracity/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-3-voracity
+libsyn_embed: 15335717
+
 category: RTC
 date: 2020-07-23 20:00:00 PDT
 ---

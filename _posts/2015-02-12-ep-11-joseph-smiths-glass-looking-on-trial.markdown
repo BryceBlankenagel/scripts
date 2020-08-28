@@ -4,6 +4,8 @@ title: >
     Ep 11 - Joseph Smith’s glass looking on trial
 episode_url: https://nakedmormonismpodcast.com/episode-11-joseph-smiths-glass-looking-trial/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep11-joseph-smiths-glass-looking-on-trial
+libsyn_embed: 3361773
+
 category: History
 date: 2015-02-12 19:45:44 PST
 ---

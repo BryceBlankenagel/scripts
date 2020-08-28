@@ -4,6 +4,8 @@ title: >
     Ep 21 - 1 Prophet, 2 Trials... 3-some anybody?
 episode_url: https://nakedmormonismpodcast.com/episode-21-1-prophet-2-trials-3-anybody/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-21-1-prophet-2-trials-3-some-anybody
+libsyn_embed: 3735850
+
 category: History
 date: 2015-08-13 21:31:12 PDT
 ---

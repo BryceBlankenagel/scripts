@@ -4,6 +4,8 @@ title: >
     Ep 39 - Joseph Smith’s Assassination Order
 episode_url: https://nakedmormonismpodcast.com/episode-39-joseph-smiths-assassination-order/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-39-joseph-smiths-assassination-order
+libsyn_embed: 4707236
+
 category: History
 date: 2016-09-29 22:10:26 PDT
 ---

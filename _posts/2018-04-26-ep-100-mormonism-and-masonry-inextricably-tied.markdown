@@ -4,6 +4,8 @@ title: >
     Ep 100 - Mormonism and Masonry Inextricably Tied
 episode_url: https://nakedmormonismpodcast.com/episode-100-mormonism-masonry-inextricably-tied/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-100-mormonism-and-masonry-inextricably-tied
+libsyn_embed: 6528401
+
 category: History
 date: 2018-04-26 20:13:43 PDT
 ---

@@ -4,6 +4,8 @@ title: >
     Ep 107 - Emma Hale Elect Lady
 episode_url: https://nakedmormonismpodcast.com/episode-107-emma-hale-elect-lady/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-107-emma-hale-elect-lady
+libsyn_embed: 6707233
+
 category: History
 date: 2018-06-14 20:49:33 PDT
 ---

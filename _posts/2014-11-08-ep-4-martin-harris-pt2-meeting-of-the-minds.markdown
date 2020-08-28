@@ -4,6 +4,8 @@ title: >
     Ep 4 - Martin Harris Pt.2 Meeting of the Minds
 episode_url: https://nakedmormonismpodcast.com/episode-4-martin-harris-pt-2-meeting-minds/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep4-martin-harris-pt2-meeting-of-the-minds
+libsyn_embed: 3169125
+
 category: History
 date: 2014-11-08 18:09:42 PST
 ---

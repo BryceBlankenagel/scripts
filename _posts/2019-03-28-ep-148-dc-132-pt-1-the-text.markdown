@@ -4,6 +4,8 @@ title: >
     Ep 148 - D&C 132 Pt. 1 the Text
 episode_url: https://nakedmormonismpodcast.com/episode-148-dc-132-pt-1-text/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-148-dc-132-pt-1-the-text
+libsyn_embed: 9187502
+
 category: History
 date: 2019-03-28 22:09:37 PDT
 ---

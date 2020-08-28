@@ -4,6 +4,8 @@ title: >
     Ep 179 - William Brutus Marks; Rat Patrol
 episode_url: https://nakedmormonismpodcast.com/episode-179-william-brutus-marks-rat-patrol/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-179-william-brutus-marks-rat-patrol
+libsyn_embed: 11848313
+
 category: History
 date: 2019-10-31 19:00:00 PDT
 ---

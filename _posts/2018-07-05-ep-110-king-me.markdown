@@ -4,6 +4,8 @@ title: >
     Ep 110 - King Me!
 episode_url: https://nakedmormonismpodcast.com/episode-110-king/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-110-king-me
+libsyn_embed: 6780317
+
 category: History
 date: 2018-07-05 23:08:58 PDT
 ---

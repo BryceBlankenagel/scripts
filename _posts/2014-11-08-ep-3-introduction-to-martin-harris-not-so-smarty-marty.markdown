@@ -4,6 +4,8 @@ title: >
     Ep 3 - Introduction to Martin Harris (Not-So-Smarty-Marty)
 episode_url: https://nakedmormonismpodcast.com/episode-3-introduction-martin-harris-not-smarty-marty/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep3-martin-harris-not-so-smarty-marty-pt1
+libsyn_embed: 3169118
+
 category: History
 date: 2014-11-08 17:56:37 PST
 ---

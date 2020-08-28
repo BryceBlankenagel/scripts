@@ -4,6 +4,8 @@ title: >
     Ep 203 - Illinois-Mormon War of Extermination
 episode_url: https://nakedmormonismpodcast.com/episode-203-illinois-mormon-war-extermination/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-203-illinois-mormon-war-of-extermination
+libsyn_embed: 14023979
+
 category: History
 date: 2020-04-16 20:00:00 PDT
 ---

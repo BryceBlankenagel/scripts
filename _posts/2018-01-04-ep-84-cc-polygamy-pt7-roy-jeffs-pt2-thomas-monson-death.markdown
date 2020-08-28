@@ -4,6 +4,8 @@ title: >
     Ep 84 - CC Polygamy Pt7 Roy Jeffs Pt2 Thomas Monson Death
 episode_url: https://nakedmormonismpodcast.com/episode-84-cc-polygamy-pt7-roy-jeffs-pt2-thomas-monson-death/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-84-cc-polygamy-pt7-roy-jeffs-pt2-thomas-monson-death
+libsyn_embed: 6117400
+
 category: History
 date: 2018-01-04 19:07:44 PST
 ---
