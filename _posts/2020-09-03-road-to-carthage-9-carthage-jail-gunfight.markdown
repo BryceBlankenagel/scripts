@@ -2,7 +2,7 @@
 layout: post
 title: >
     Road to Carthage 9 - Carthage Jail Gunfight
-episode_url: https://nakedmormonismpodcast.com/episode-222-road-carthage-8-final-hour/
+episode_url: https://nakedmormonismpodcast.com/episode-223-road-carthage-9-carthage-jail-gunfight/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-9-carthage-jail-gunfight
 libsyn_embed: 15881714
 
