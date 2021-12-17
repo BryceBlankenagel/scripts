@@ -23,7 +23,7 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-            <form method="get" action="http://www.google.com/search" target="_blank">
+            <form method="get" action="https://www.google.com/search" target="_blank">
             <input type="hidden" name="sitesearch" value="{{site.url}}" />
             <input type="text" name="q" maxlength="255" placeholder="Search with Google" />
             </form>
