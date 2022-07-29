@@ -27,7 +27,7 @@ we have on Michael Schaffer from the Reasonable Risk Podcast.
 Links:
 
 Manuscript History of Brigham Young  
-<https://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<https://boap.org/LDS/Early-Saints/MSHBY.html>
 
 Dimick Huntington Constable Appointment  
 <https://byustudies.byu.edu/content/volume-4-chapter-15>

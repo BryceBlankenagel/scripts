@@ -32,7 +32,7 @@ Outro music used with permission
 Links:
 
 John H. Gilbert recollections:
-<http://www.boap.org/LDS/Early-Saints/JHGilbert.html>
+<http://boap.org/LDS/Early-Saints/JHGilbert.html>
 
 Dan Vogel, witnesses of the plates:
 <https://www.youtube.com/watch?v=v-jNV6jN-VQ>

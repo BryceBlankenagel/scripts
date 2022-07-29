@@ -14,7 +14,7 @@ Links:
 
 Mary Rollins:
 
-<http://www.boap.org/LDS/Early-Saints/MLightner.html>
+<http://boap.org/LDS/Early-Saints/MLightner.html>
 
 <http://josephsmithspolygamy.org/history-2/plural-wives-overview/mary-elizabeth-rollins/>
 

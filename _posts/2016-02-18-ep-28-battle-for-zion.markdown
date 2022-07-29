@@ -43,7 +43,7 @@ John Goebbels Whitmer's history
 
 Philo Dibble Dabble Autobiography
 
-<http://www.boap.org/LDS/Early-Saints/PDibble.html>
+<http://boap.org/LDS/Early-Saints/PDibble.html>
 
 Welcome to Episode 28 of the Naked Mormonism Podcast, the serial history
 podcast. Today is February 18<sup>th</sup> , my name is Bryce

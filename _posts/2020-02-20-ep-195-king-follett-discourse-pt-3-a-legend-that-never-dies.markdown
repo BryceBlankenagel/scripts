@@ -31,7 +31,7 @@ Do you want a Mormon D\&D Campaign?\! Support the show right here:
 <https://www.patreon.com/nakedmormonism>
 
 King Follett Discourse source material  
-<http://www.boap.org/LDS/Parallel/1844/7Apr44.html>  
+<http://boap.org/LDS/Parallel/1844/7Apr44.html>  
 <https://www.josephsmithpapers.org/paper-summary/discourse-7-april-1844-as-reported-by-times-and-seasons/1#full-transcript>
 
 KFD: A Newly Amalgamated Text  
@@ -1148,7 +1148,7 @@ it:
 > A question, will Mothers have their children in Eternity yes, yes, you
 > will have the children But as it falls, so it will rise, It will never
 > grow, It will be in its precise form as it fell in its mothers
-> arms. [3](http://www.boap.org/LDS/Parallel/1844/7Apr44.html#N_3_) Eternity
+> arms. [3](http://boap.org/LDS/Parallel/1844/7Apr44.html#N_3_) Eternity
 > is full of thrones upon which dwell thousands of children reigning on
 > thrones of glory not one cubit added to their stature
 

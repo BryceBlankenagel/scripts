@@ -43,7 +43,7 @@ https://ballandalus.wordpress.com/2015/06/01/mongol-papal-encounter-letter-excha
 
 Philo Dibble-Dabble autobiography
 
-http://www.boap.org/LDS/Early-Saints/PDibble.html
+http://boap.org/LDS/Early-Saints/PDibble.html
 
 Joseph Smith movie (minute 25 for tar and feather scene)
 

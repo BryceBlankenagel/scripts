@@ -1319,7 +1319,7 @@ which didn’t escape comment from a Mormon named ‘Father Draper’.
 > be carrying a bottle of whiskey with you." We explained to him what it
 > was; this appeased his righteous soul, so that he consented to have us
 > stay over the night. (emphasis added
-> [<u>http://www.boap.org/LDS/Early-Saints/MSHBY.html</u>](http://www.boap.org/LDS/Early-Saints/MSHBY.html))
+> [<u>http://boap.org/LDS/Early-Saints/MSHBY.html</u>](http://boap.org/LDS/Early-Saints/MSHBY.html))
 
 The brethren ‘preparing their own tonic bitters’ must not have been out
 of the ordinary for Bloody Brigham.The exercise of divine healing

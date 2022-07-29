@@ -35,7 +35,7 @@ Elias Higbee
 <https://www.josephsmithpapers.org/person/elias-higbee>
 
 Manuscript History of Brigham Young  
-<https://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<https://boap.org/LDS/Early-Saints/MSHBY.html>
 
 Show links:
 

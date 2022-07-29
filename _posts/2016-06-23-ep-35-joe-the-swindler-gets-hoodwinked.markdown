@@ -48,11 +48,11 @@ Links:
 
 Orson Hyde Autobiography
 
-<http://www.boap.org/LDS/Early-Saints/OHyde.html>
+<[http://boap.org/LDS/Early-Saints/OHyde.html](https://web.archive.org/web/20160624040000/http://boap.org/LDS/Early-Saints/OHyde.html)>
 
 Ebenezer Robinson autobiography
 
-<http://www.boap.org/LDS/Early-Saints/ERobinson.html>
+<[http://boap.org/LDS/Early-Saints/ERobinson.html](https://web.archive.org/web/20160624040000/http://boap.org/LDS/Early-Saints/ERobinson.html)>
 
 Salem Trip Apologetics
 

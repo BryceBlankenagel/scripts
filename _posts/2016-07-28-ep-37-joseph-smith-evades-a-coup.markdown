@@ -42,7 +42,7 @@ Links:
 
 Ebenezer Robinson Autobiography
 
-<http://www.boap.org/LDS/Early-Saints/ERobinson.html>
+<http://boap.org/LDS/Early-Saints/ERobinson.html>
 
 Politics in Kirtland
 

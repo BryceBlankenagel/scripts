@@ -52,10 +52,10 @@ Ebenzer Robinson “Not Enough Trouble”
 <https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V19N03_141.pdf>
 
 Ebenezer Robinson Autobiography  
-<https://www.boap.org/LDS/Early-Saints/ERobinson.html>
+<https://boap.org/LDS/Early-Saints/ERobinson.html>
 
 Manuscript History of Brigham Young  
-<https://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<https://boap.org/LDS/Early-Saints/MSHBY.html>
 
 “The Return” edited by Ebenezer Robinson  
 <http://www.sidneyrigdon.com/RigWrit/M&A/Return1.htm#06-8906a>

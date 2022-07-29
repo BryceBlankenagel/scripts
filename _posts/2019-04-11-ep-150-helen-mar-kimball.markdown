@@ -23,7 +23,7 @@ enigma, Helen Mar Kimball.
 Links:
 
 Helen Mar Kimball Smith Whitney autobiographical sketches  
-<https://www.boap.org/LDS/Early-Saints/HWhitney.html>  
+<https://boap.org/LDS/Early-Saints/HWhitney.html>  
 <https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1035&context=usupress_pubs>
 
 1881 letter  

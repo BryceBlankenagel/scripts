@@ -25,7 +25,7 @@ Amanda Barnes Smith
 <https://familysearch.org/photos/artifacts/1781809>
 
 Lyman Omer Littlefield Autobiography  
-<http://www.boap.org/LDS/Early-Saints/LLittlefield.html>
+<http://boap.org/LDS/Early-Saints/LLittlefield.html>
 
 James McBride 1876 microform  
 <http://hdl.huntington.org/cdm/ref/collection/p16003coll15/id/11608>
@@ -34,7 +34,7 @@ Ellis Eames
 <https://familysearch.org/photos/artifacts/12594448>
 
 Mrs. Lucy Walker (Smith) Kimball:  
-<http://www.boap.org/LDS/Early-Saints/LLittlefield.html>
+<http://boap.org/LDS/Early-Saints/LLittlefield.html>
 
 Show links:
 
@@ -124,7 +124,7 @@ should never see me, hear of me nor hear my name mentioned in the world
 again, but we bid them good-by and left them.
 
 Lyman Omer Littlefield Autobiography  
-<http://www.boap.org/LDS/Early-Saints/LLittlefield.html>
+<http://boap.org/LDS/Early-Saints/LLittlefield.html>
 
 “The arrival of Joseph Smith and his first counselor, Sidney Rigdon, at
 Far West was a cause of great rejoicing among the Saints. They had fled
@@ -361,7 +361,7 @@ the smokey atmosphere. All was still.
 Massacre:
 
 Mrs. Lucy Walker (Smith) Kimball:  
-http://www.boap.org/LDS/Early-Saints/LLittlefield.html
+http://boap.org/LDS/Early-Saints/LLittlefield.html
 
 We continued our journey until we came to a settlement on Shoal Creek,
 five miles distant from Haun's Mill; my father and another of the
@@ -805,7 +805,7 @@ Isaac recovered, and lived thirty-five years from the day of the Haun’s
 Mill Massacre.”
 
 Mrs. Lucy Walker (Smith) Kimball:  
-http://www.boap.org/LDS/Early-Saints/LLittlefield.html
+http://boap.org/LDS/Early-Saints/LLittlefield.html
 
 My father aided in dressing the wounds of those worse off than himself
 and to bury the dead as best he could with his left hand. His own arm
@@ -1615,7 +1615,7 @@ tying her apron around the horse’s neck, led it home with no further
 objections”
 
 Lyman Omer Littlefield Autobiography  
-<http://www.boap.org/LDS/Early-Saints/LLittlefield.html>
+<http://boap.org/LDS/Early-Saints/LLittlefield.html>
 
 “The arrival of Joseph Smith and his first counselor, Sidney Rigdon, at
 Far West was a cause of great rejoicing among the Saints. They had fled
@@ -1672,7 +1672,7 @@ and from which much excitement resulted in Caldwell, Daviess and Carroll
 Counties.”
 
 Mrs. Lucy Walker (Smith) Kimball:  
-http://www.boap.org/LDS/Early-Saints/LLittlefield.html
+http://boap.org/LDS/Early-Saints/LLittlefield.html
 
 “Father was baptized into the Church of Jesus Christ in 1832; mother,
 two years later. They left Vermont in 1834 for the west. They found a

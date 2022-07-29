@@ -27,7 +27,7 @@ teaching children a love for science and skepticism.
 Links:
 
 Manuscript History of Brigham Young  
-<https://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<https://boap.org/LDS/Early-Saints/MSHBY.html>
 
 Willard Richards  
 <http://www.josephsmithpapers.org/person/willard-richards>  

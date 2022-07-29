@@ -44,7 +44,7 @@ Voicemail Line (864)Nake-dMo (625-3366)
 Links:
 
 Manuscript History of Brigham Young  
-<http://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<http://boap.org/LDS/Early-Saints/MSHBY.html>
 
 Joel’s D\&C comparison  
 <http://www.joelakuhn.com/dc-compare/>

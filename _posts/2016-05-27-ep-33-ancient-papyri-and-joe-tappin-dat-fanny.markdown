@@ -48,11 +48,11 @@ BoC D\&C comparison by Joel
 
 Autobiography of Jonathan Crosby
 
-<http://www.boap.org/LDS/Early-Saints/JCrosby.html>
+<http://boap.org/LDS/Early-Saints/JCrosby.html>
 
 Autobiography of Benjamin F. Johnson
 
-<http://www.boap.org/LDS/Early-Saints/BFJohnson.html>
+<http://boap.org/LDS/Early-Saints/BFJohnson.html>
 
 Brian Hales on Fanny Alger
 

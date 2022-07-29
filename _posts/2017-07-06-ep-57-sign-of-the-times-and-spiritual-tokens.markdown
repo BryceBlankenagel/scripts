@@ -28,7 +28,7 @@ of red-scare bigoted octogenarians who are on the wrong side of history.
 Links:
 
 Autobiography of Benjamin F. Johnson  
-<http://www.boap.org/LDS/Early-Saints/BFJohnson.html>
+<http://boap.org/LDS/Early-Saints/BFJohnson.html>
 
 Lance Owens Joseph Smith and the Kabbalah  
 <http://gnosis.org/jskabb3.htm>
@@ -43,7 +43,7 @@ Hermeticism
 <https://en.wikipedia.org/wiki/Hermeticism>
 
 Manuscript history of Brigham Young  
-<http://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<http://boap.org/LDS/Early-Saints/MSHBY.html>
 
 Savannah’s testimony  
 <https://www.youtube.com/watch?v=o_0nhyP6dU4>

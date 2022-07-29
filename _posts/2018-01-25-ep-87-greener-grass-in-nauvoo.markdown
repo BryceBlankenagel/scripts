@@ -26,7 +26,7 @@ Links:
 <http://www.localhistories.org/19thcent.html>
 
 Manuscript History of Brigham Young  
-<https://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<https://boap.org/LDS/Early-Saints/MSHBY.html>
 
 Mormon Leaks links  
 <https://mormonleaks.io/newsroom/2018/01/16/mormonleaks-releases-eight-documents-concerning-temple-administration/>  

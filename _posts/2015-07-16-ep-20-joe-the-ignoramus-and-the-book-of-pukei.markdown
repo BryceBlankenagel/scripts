@@ -42,7 +42,7 @@ https://www.lds.org/ensign/1985/08/a-snug-log-house?lang=eng
 
 Solomon Chamberlain Autobiography
 
-http://www.boap.org/LDS/Early-Saints/SChamberlain.html
+http://boap.org/LDS/Early-Saints/SChamberlain.html
 
 Welcome to episode 20 of the Naked Mormonism podcast, I'm Bryce
 Blankenagel, and thank you for joining me.

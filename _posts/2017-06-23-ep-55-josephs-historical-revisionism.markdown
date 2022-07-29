@@ -26,7 +26,7 @@ Dangerous History Podcast.
 Links:
 
 Autobiography of Parley P. Pratt  
-<http://www.boap.org/LDS/Early-Saints/PPPratt.html>
+<http://boap.org/LDS/Early-Saints/PPPratt.html>
 
 Biographical Sketches of Stephen Markham  
 <https://familysearch.org/photos/artifacts/22446494>

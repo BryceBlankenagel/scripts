@@ -35,7 +35,7 @@ JS Journal on JSP
 <https://www.josephsmithpapers.org/paper-summary/doctrine-and-covenants-1835/259#full-transcript>
 
 Manuscript History of Brigham Young  
-<https://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<https://boap.org/LDS/Early-Saints/MSHBY.html>
 
 Show Links:
 

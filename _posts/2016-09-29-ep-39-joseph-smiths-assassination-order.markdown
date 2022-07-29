@@ -13,7 +13,7 @@ date: 2016-09-29 22:10:26 PDT
 Episode 39
 
 Autobiography of P. P. Pratt  
-<http://www.boap.org/LDS/Early-Saints/PPPratt.html>
+<http://boap.org/LDS/Early-Saints/PPPratt.html>
 
 Welcome to Episode 39 of the NMP, the serial Mormon history podcast.
 Today is Thursday Sept 29, my name is Bryce Blankenagel and thank you

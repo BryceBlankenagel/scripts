@@ -35,7 +35,7 @@ The Sword of Laban by William Morain M.D.
 <https://www.amazon.com/Sword-Laban-Joseph-Smith-Dissociated/dp/0880488646>
 
 Autobiography of Parley P. Pratt  
-<http://www.boap.org/LDS/Early-Saints/PPPratt.html>
+<http://boap.org/LDS/Early-Saints/PPPratt.html>
 
 MLM BYU Francis Bernard Video  
 <https://www.youtube.com/watch?v=ShoZxwE7Wr4&feature=youtu.be>

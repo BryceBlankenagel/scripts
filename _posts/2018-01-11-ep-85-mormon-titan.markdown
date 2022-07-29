@@ -37,7 +37,7 @@ Alvah Beaman Biography
 
 Joseph Bates Noble Autobiography  
 <http://www.gapages.com/noblejb1.htm>  
-<https://www.boap.org/LDS/Early-Saints/JBNoble.html>
+<https://boap.org/LDS/Early-Saints/JBNoble.html>
 
 Joseph Noble 1892 Temple Lot Deposition  
 <https://trove.nla.gov.au/work/25491444?selectedversion=NBD43278086>

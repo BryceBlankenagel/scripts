@@ -47,7 +47,7 @@ Recollections by Peter H. Burnett
 <https://archive.org/details/recollectionsopi00burnrich>
 
 Ebenezer Robinson Autobiography  
-<http://www.boap.org/LDS/Early-Saints/ERobinson.html>
+<http://boap.org/LDS/Early-Saints/ERobinson.html>
 
 Show links:
 

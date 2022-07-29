@@ -44,11 +44,11 @@ Links:
 
 Wilford Woodruff autobiography:
 
-<http://www.boap.org/LDS/Early-Saints/WWoodruff.html>
+<http://boap.org/LDS/Early-Saints/WWoodruff.html>
 
 Manuscript History of Brigham Young:
 
-<http://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<http://boap.org/LDS/Early-Saints/MSHBY.html>
 
 November 1836 Messenger and Advocate:
 
@@ -56,7 +56,7 @@ November 1836 Messenger and Advocate:
 
 The Ohio Observer, “Mormonism” by Truman Coe:
 
-<http://www.boap.org/LDS/Early-Saints/Coe.html>
+<http://boap.org/LDS/Early-Saints/Coe.html>
 
 Painesville Telegraph, “Mormonism” by Anonymous:
 
@@ -64,11 +64,11 @@ Painesville Telegraph, “Mormonism” by Anonymous:
 
 Ebenezer Robinson autobiography:
 
-<http://www.boap.org/LDS/Early-Saints/ERobinson.html>
+<http://boap.org/LDS/Early-Saints/ERobinson.html>
 
 Book of John Whitmer (Brother of Gideon Society):
 
-<http://www.boap.org/LDS/Early-Saints/JWhitmer-history.html>
+<http://boap.org/LDS/Early-Saints/JWhitmer-history.html>
 
 Phil Ferugson show:
 

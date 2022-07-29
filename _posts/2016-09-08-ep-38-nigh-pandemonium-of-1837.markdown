@@ -54,7 +54,7 @@ John Corrill’s Brief History of the Church
 <http://www.josephsmithpapers.org/paperSummary/john-corrill-brief-history-manuscript-circa-1838-1839#!/paperSummary/john-corrill-brief-history-manuscript-circa-1838-1839&p=53>
 
 Bloody Brigham Young Autobiograhpy  
-<http://www.boap.org/LDS/Early-Saints/MSHBY.html>
+<http://boap.org/LDS/Early-Saints/MSHBY.html>
 
 Welcome to Episode 38 of the Naked Mormonism Podcast, the serial Mormon
 history podcast. Today is Thursday September 8<sup>th</sup> 2016, my

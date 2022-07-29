@@ -33,7 +33,7 @@ General Parks’ letter to James Sloan
 <http://mormonhistoricsites.org/wp-content/uploads/2013/05/MHS2.1Baugh-HiramParks.pdf>
 
 Benjamin F. Johnson My Life’s Review  
-<http://www.boap.org/LDS/Early-Saints/BFJohnson.html>
+<http://boap.org/LDS/Early-Saints/BFJohnson.html>
 
 Reddit post w/ dove and walking on water stories  
 <https://www.reddit.com/r/exmormon/comments/1dnchp/til_joseph_smith_dressed_up_like_an_angel_to_fool/>
