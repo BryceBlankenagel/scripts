@@ -11,6 +11,7 @@ disqus:
 author: Bryce Blankenagel
 email: NakedMormonism@gmail.com
 domain: scripts.nakedmormonismpodcast.com
+url: https://scripts.nakedmormonismpodcast.com
 
 plugins:
   - jekyll-sitemap
