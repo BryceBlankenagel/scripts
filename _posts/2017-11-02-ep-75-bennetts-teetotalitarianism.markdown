@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-75-bennetts-teetotalitarianism/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-75-bennetts-teetotalitarianism
 libsyn_embed: 5906025
+redirect_from: /2017/11/03/ep-75-bennetts-teetotalitarianism/
 
 category: History
 date: 2017-11-02 19:24:38 PDT

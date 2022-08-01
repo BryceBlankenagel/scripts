@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 119 - Bennett’s Brothel Gets Dumped
+
 episode_url: https://nakedmormonismpodcast.com/episode-119-bennetts-brothel-gets-dumped/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-119-bennetts-brothel-gets-dumped
 libsyn_embed: 7017546
-
 category: History
 date: 2018-09-06 22:30:50 PDT
+redirect_from: /2018/09/07/ep-119-bennetts-brothel-gets-dumped/
 ---
 
 Ep 119 – Bennett’s Brothel Gets Dumped

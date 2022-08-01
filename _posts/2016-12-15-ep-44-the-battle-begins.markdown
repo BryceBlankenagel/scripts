@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-44-battle-begins/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-44-the-battle-begins
 libsyn_embed: 4917701
+redirect_from: /2016/12/16/ep-44-the-battle-begins/
 
 category: History
 date: 2016-12-15 17:57:53 PST

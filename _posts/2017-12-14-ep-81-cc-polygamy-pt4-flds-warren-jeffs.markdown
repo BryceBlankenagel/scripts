@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-81-cc-polygamy-pt4-flds-warren-jeff/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-81-cc-polygamy-pt4-flds-warren-jeffs
 libsyn_embed: 6048415
+redirect_from: /2017/12/15/ep-81-cc-polygamy-pt4-flds-warren-jeffs/
 
 category: History
 date: 2017-12-14 20:22:18 PST

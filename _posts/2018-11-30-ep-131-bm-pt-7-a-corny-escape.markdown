@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 131 - BM Pt. 7 A Corny Escape
+
 episode_url: https://nakedmormonismpodcast.com/episode-131-bennett-meltdown-part-7-corny-escape/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-131-bm-pt-7-a-corny-escape
 libsyn_embed: 7749227
-
 category: History
 date: 2018-11-30 00:18:31 PST
+redirect_from: /2018/12/01/ep-131-bm-pt-7-a-corny-escape/
 ---
 
 Ep 131 – BM Pt. 7 A Corny Escape

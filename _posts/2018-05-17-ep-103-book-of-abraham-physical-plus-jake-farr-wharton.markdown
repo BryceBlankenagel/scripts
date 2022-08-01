@@ -8,6 +8,7 @@ libsyn_embed: 6607182
 
 category: History
 date: 2018-05-17 20:43:31 PDT
+redirect_from: /2018/05/18/ep-103-book-of-abraham-physical-plus-jake-farr-wharton/
 ---
 
 Ep 103 – Book of Abraham Physical Plus Jake Farr-Wharton

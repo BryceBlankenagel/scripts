@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 184 - The Power of a Mormon POTUS
+
 episode_url: https://nakedmormonismpodcast.com/episode-184-power-mormon-potus/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-184-the-power-of-a-mormon-potus
 libsyn_embed: 12301682
-
 category: History
 date: 2019-12-05 20:00:00 PST
+redirect_from: /2019/12/06/ep-184-the-power-of-a-mormon-potus/
 ---
 
 Ep 184 – The Power of a Mormon POTUS

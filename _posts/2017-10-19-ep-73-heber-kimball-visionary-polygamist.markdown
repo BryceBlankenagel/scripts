@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-73-heber-kimball-visionary-polygamist/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-73-heber-kimball-visionary-polygamist
 libsyn_embed: 5859264
+redirect_from: /2017/10/20/ep-73-heber-kimball-visionary-polygamist/
 
 category: History
 date: 2017-10-19 21:22:34 PDT

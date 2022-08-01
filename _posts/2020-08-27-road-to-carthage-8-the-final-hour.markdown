@@ -2,11 +2,13 @@
 layout: post
 title: >
     Road to Carthage 8 - The Final Hour
+
 episode_url: https://nakedmormonismpodcast.com/episode-222-road-carthage-8-final-hour/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-8-the-final-hour
 libsyn_embed: 15788255
 category: RTC
 date: 2020-08-27 20:00:00 PDT
+redirect_from: /2020/08/28/road-to-carthage-8-the-final-hour/
 ---
 
 Road to Carthage 8 - The Final Hour

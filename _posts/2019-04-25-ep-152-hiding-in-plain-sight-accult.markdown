@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 152 - Hiding in Plain Sight; Accult
+
 episode_url: https://nakedmormonismpodcast.com/ep-152-hiding-plain-sight-accult/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-152-hiding-in-plain-sight-accult
 libsyn_embed: 9534800
-
 category: History
 date: 2019-04-25 19:00:00 PDT
+redirect_from: /2019/04/26/ep-152-hiding-in-plain-sight-accult/
 ---
 
 Ep 152 – Hiding in Plain Sight; Accult

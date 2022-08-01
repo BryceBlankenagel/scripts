@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 139 - A City of Glass Houses
+
 episode_url: https://nakedmormonismpodcast.com/episode-139-city-glass-houses/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-139-a-city-of-glass-houses
 libsyn_embed: 8456957
-
 category: History
 date: 2019-01-30 10:00:22 PST
+redirect_from: /2019/01/31/ep-139-a-city-of-glass-houses/
 ---
 
 Ep 139 – A City of Glass Houses

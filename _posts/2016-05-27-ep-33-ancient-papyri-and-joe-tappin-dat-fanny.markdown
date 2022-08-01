@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-33-ancient-papyri-joe-tappin-dat-fanny/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-33-ancient-papyri-and-joe-tappin-dat-fanny
 libsyn_embed: 4398729
+redirect_from: /2016/05/28/ep-33-ancient-papyri-and-joe-tappin-dat-fanny/
 
 category: History
 date: 2016-05-27 00:04:26 PDT

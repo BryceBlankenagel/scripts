@@ -2,12 +2,13 @@
 layout: post
 title: >
     Road to Carthage 4 - Jealousy
+
 episode_url: https://nakedmormonismpodcast.com/road-carthage-4-jealousy/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-4-jealousy
 libsyn_embed: 15424394
-
 category: RTC
 date: 2020-07-31 01:38:51 PDT
+redirect_from: /2020/07/32/road-to-carthage-4-jealousy/
 ---
 
 Road to Carthage 4 - Jealousy

@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 136 - To Deprive a Citizen His Liberty
+
 episode_url: https://nakedmormonismpodcast.com/episode-136-deprive-citizen-liberty/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-136-to-deprive-a-citizen-his-liberty
 libsyn_embed: 8131799
-
 category: History
 date: 2019-01-03 22:41:34 PST
+redirect_from: /2019/01/04/ep-136-to-deprive-a-citizen-his-liberty/
 ---
 
 Ep 136 –

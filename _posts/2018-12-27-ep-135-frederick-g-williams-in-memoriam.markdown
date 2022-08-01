@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 135 - Frederick G. Williams in Memoriam
+
 episode_url: https://nakedmormonismpodcast.com/episode-135-frederick-g-williams-memoriam/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-135-frederick-g-williams-in-memoriam
 libsyn_embed: 8040752
-
 category: History
 date: 2018-12-27 19:00:00 PST
+redirect_from: /2018/12/28/ep-135-frederick-g-williams-in-memoriam/
 ---
 
 Ep 135 – Frederick G. Williams in Memoriam

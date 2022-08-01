@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 161 - The Mormon Seraglio
+
 episode_url: https://nakedmormonismpodcast.com/episode-161-mormon-seraglio/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-161-the-mormon-seraglio
 libsyn_embed: 10322654
-
 category: History
 date: 2019-06-27 18:46:15 PDT
+redirect_from: /2019/06/28/ep-161-the-mormon-seraglio/
 ---
 
 Ep 161 – The Mormon Seraglio

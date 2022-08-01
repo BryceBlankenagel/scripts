@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-38-nigh-pandemonium-1837/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-38-nigh-pandemonium-of-1837
 libsyn_embed: 4654581
+redirect_from: /2016/09/09/ep-38-nigh-pandemonium-of-1837/
 
 category: History
 date: 2016-09-08 20:00:35 PDT

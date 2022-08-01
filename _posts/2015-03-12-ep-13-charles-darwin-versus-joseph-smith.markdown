@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-13-charles-darwin-versus-joseph-smith/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-13-charles-darwin-versus-joseph-smith
 libsyn_embed: 3422278
+redirect_from: /2015/03/13/ep-13-charles-darwin-versus-joseph-smith/
 
 category: History
 date: 2015-03-12 19:04:01 PDT

@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 165 - Stone Rolling Through Fluid Morality
+
 episode_url: https://nakedmormonismpodcast.com/episode-165-stone-rolling-fluid-morality/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-165-stone-rolling-through-fluid-morality
 libsyn_embed: 10663700
-
 category: History
 date: 2019-07-25 20:00:00 PDT
+redirect_from: /2019/07/26/ep-165-stone-rolling-through-fluid-morality/
 ---
 
 Ep 165 – Stone Rolling Through Fluid Morality

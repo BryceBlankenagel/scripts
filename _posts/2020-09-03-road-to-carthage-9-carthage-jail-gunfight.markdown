@@ -2,12 +2,15 @@
 layout: post
 title: >
     Road to Carthage 9 - Carthage Jail Gunfight
+
 episode_url: https://nakedmormonismpodcast.com/episode-223-road-carthage-9-carthage-jail-gunfight/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-9-carthage-jail-gunfight
 libsyn_embed: 15881714
-
 category: RTC
 date: 2020-09-03 20:00:00 PDT
+redirect_from: |-
+    /2020/09/04/road-to-carthage-9-carthage-jail-gunfight-sources/
+    /2020/09/04/road-to-carthage-9-carthage-jail-gunfight/
 ---
 
 Road to Carthage 9 - Carthage Jail Gunfight

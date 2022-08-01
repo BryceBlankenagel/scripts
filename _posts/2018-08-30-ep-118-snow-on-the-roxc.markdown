@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 118 - Snow on the Roxc
+
 episode_url: https://nakedmormonismpodcast.com/episode-118-snow-roxc/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-118-snow-on-the-roxc
 libsyn_embed: 6990746
-
 category: History
 date: 2018-08-30 21:36:28 PDT
+redirect_from: /2018/08/31/ep-118-snow-on-the-roxc/
 ---
 
 Ep 118 – Snow on the Roxc

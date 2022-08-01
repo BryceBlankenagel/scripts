@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-65-hurricane-harvey-harbinger/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-65-hurricane-harvey-harbinger
 libsyn_embed: 5681403
+redirect_from: /2017/08/28/ep-65-hurricane-harvey-harbinger/
 
 category: History
 date: 2017-08-27 20:13:29 PDT

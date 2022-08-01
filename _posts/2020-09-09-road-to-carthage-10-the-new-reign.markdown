@@ -2,12 +2,13 @@
 layout: post
 title: >
     Road to Carthage 10 - The New Reign
+
 episode_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-10-the-new-reign
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/road-to-carthage-10-the-new-reign
 libsyn_embed: 15969461
-
 category: RTC
 date: 2020-09-09 20:00:00 PDT
+redirect_from: /2020/09/10/road-to-carthage-10-the-new-reign/
 ---
 
 Road to Carthage 10 - The New Reign

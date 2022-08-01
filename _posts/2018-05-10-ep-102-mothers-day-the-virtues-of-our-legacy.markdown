@@ -8,6 +8,7 @@ libsyn_embed: 6581248
 
 category: History
 date: 2018-05-10 20:37:22 PDT
+redirect_from: /2018/05/11/ep-102-mothers-day-the-virtues-of-our-legacy/
 ---
 
 Ep 102 – Mother’s Day, The Virtues of Our Legacy

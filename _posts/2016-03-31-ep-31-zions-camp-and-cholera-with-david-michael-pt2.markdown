@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-31-zions-camp-cholera-david-michael-pt2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-31-zions-camp-and-cholera-with-david-michael-pt2
 libsyn_embed: 4263315
+redirect_from: /2016/03/32/ep-31-zions-camp-and-cholera-with-david-michael-pt2/
 
 category: History
 date: 2016-03-31 19:51:37 PDT

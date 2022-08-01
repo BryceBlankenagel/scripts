@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 151 - Going With the Opposed Votes
+
 episode_url: https://nakedmormonismpodcast.com/episode-151-going-opposed-votes/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-151-going-with-the-opposed-votes
 libsyn_embed: 9453839
-
 category: History
 date: 2019-04-18 20:25:38 PDT
+redirect_from: /2019/04/19/ep-151-going-with-the-opposed-votes/
 ---
 
 Ep 151 – Going With the Opposed Votes

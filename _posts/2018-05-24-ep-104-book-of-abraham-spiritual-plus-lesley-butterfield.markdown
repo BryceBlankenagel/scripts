@@ -8,6 +8,7 @@ libsyn_embed: 6632860
 
 category: History
 date: 2018-05-24 18:52:36 PDT
+redirect_from: /2018/05/25/ep-104-book-of-abraham-spiritual-plus-lesley-butterfield/
 ---
 
 Ep 104 – Book of Abraham Spiritual plus Lesley Butterfield

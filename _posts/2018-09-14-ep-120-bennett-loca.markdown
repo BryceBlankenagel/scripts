@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 120 - Bennett LOCA
+
 episode_url: https://nakedmormonismpodcast.com/episode-120-bennett-loca/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-120-bennett-loca
 libsyn_embed: 7045737
-
 category: History
 date: 2018-09-14 00:09:32 PDT
+redirect_from: /2018/09/15/ep-120-bennett-loca/
 ---
 
 Ep 120 – Bennett LOCA

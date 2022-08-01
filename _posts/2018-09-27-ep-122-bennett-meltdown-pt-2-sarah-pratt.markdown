@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 122 - Bennett Meltdown pt 2 Sarah Pratt
+
 episode_url: https://nakedmormonismpodcast.com/episode-122-bennett-meltdown-pt-2-sarah-pratt/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/122-bennett-meltdown-pt-2-sarah-pratt
 libsyn_embed: 7092328
-
 category: History
 date: 2018-09-27 15:00:00 PDT
+redirect_from: /2018/09/28/ep-122-bennett-meltdown-pt-2-sarah-pratt/
 ---
 
 122 – Bennett Meltdown pt 2 Sarah Pratt

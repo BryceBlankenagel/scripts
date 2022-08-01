@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-59-cc-smith-entheogen-theory-pt1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-59-cc-smith-entheogen-theory
 libsyn_embed: 5560738
+redirect_from: /2017/07/21/ep-59-cc-smith-entheogen-theory/
 
 category: History
 date: 2017-07-20 22:02:58 PDT

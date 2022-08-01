@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-62-john-bennett-brokeit/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/episode-62-john-bennett-then-brokeit
 libsyn_embed: 5630326
+redirect_from: /2017/08/11/ep-62-john-bennett-then-brokeit/
 
 category: History
 date: 2017-08-10 15:48:39 PDT

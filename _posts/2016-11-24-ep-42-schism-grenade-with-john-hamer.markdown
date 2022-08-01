@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-42-schism-grenade-john-hamer/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-42-schism-grenade-with-john-hamer
 libsyn_embed: 4860859
+redirect_from: /2016/11/25/ep-42-schism-grenade-with-john-hamer/
 
 category: History
 date: 2016-11-24 22:04:11 PST

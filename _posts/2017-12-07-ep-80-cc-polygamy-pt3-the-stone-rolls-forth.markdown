@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-80-cc-polygamy-pt3-stone-rolls-forth/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-80-cc-polygamy-pt3-the-stone-rolls-forth
 libsyn_embed: 6023471
+redirect_from: /2017/12/08/ep-80-cc-polygamy-pt3-the-stone-rolls-forth/
 
 category: History
 date: 2017-12-07 19:04:43 PST

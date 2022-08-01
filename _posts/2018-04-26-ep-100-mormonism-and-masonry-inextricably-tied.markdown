@@ -8,6 +8,7 @@ libsyn_embed: 6528401
 
 category: History
 date: 2018-04-26 20:13:43 PDT
+redirect_from: /2018/04/27/ep-100-mormonism-and-masonry-inextricably-tied/
 ---
 
 Ep 100 – Mormonism and Masonry Inextricably Tied

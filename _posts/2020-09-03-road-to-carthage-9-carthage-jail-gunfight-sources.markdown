@@ -2,12 +2,13 @@
 layout: post
 title: >
     Road to Carthage 9 - Carthage Jail Gunfight (sources)
-episode_url: 
-libsyn_url: 
-libsyn_embed: 
 
+episode_url:
+libsyn_url:
+libsyn_embed:
 category: Sources
 date: 2020-09-03 20:00:01 PDT
+redirect_from: /2020/09/04/road-to-carthage-9-carthage-jail-gunfight-sources/
 ---
 
 **Sources from University of Chicago library that apparently are not

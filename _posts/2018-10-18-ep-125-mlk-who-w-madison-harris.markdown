@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 125 - MLK Who? w/ Madison Harris
+
 episode_url: https://nakedmormonismpodcast.com/episode-125-mlk-w-madison-harris/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-125-mlk-who-w-madison-harris
 libsyn_embed: 7105490
-
 category: History
 date: 2018-10-18 16:00:00 PDT
+redirect_from: /2018/10/19/ep-125-mlk-who-w-madison-harris/
 ---
 
 Ep 125 – MLK Who? w/ Madison Harris

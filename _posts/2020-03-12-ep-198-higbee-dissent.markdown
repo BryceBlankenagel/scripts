@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 198 - Higbee Dissent
+
 episode_url: https://nakedmormonismpodcast.com/episode-198-higbee-dissent/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-198-higbee-dissent
 libsyn_embed: 13531841
-
 category: History
 date: 2020-03-12 20:00:00 PDT
+redirect_from: /2020/03/13/ep-198-higbee-dissent/
 ---
 
 Ep 198 – Higbee Dissent

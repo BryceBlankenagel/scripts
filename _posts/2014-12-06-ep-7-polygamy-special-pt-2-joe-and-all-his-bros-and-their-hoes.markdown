@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-7-polygamy-special-pt-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep7-polygamy-special-pt-2-joe-and-all-his-bros-and-their-hoes
 libsyn_embed: 3223556
+redirect_from: /2014/12/07/ep-7-polygamy-special-pt-2-joe-and-all-his-bros-and-their-hoes/
 
 category: History
 date: 2014-12-06 11:43:03 PST

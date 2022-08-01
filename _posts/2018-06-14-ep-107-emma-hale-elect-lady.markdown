@@ -8,6 +8,7 @@ libsyn_embed: 6707233
 
 category: History
 date: 2018-06-14 20:49:33 PDT
+redirect_from: /2018/06/15/ep-107-emma-hale-elect-lady/
 ---
 
 This week’s episode is brought to you by 49dollarsites.com. Use promo

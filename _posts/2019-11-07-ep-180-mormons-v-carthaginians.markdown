@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 180 - Mormons v. Carthaginians
+
 episode_url: https://nakedmormonismpodcast.com/episode-180-mormons-v-carthaginians/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-180-mormons-v-carthaginians
 libsyn_embed: 11953958
-
 category: History
 date: 2019-11-07 20:00:00 PST
+redirect_from: /2019/11/08/ep-180-mormons-v-carthaginians/
 ---
 
 Ep 180 – Mormons v. Carthaginians

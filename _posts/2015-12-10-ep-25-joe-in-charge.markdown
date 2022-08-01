@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-25-joe-charge/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-25-joe-in-charge
 libsyn_embed: 4010049
+redirect_from: /2015/12/11/ep-25-joe-in-charge/
 
 category: History
 date: 2015-12-10 21:52:46 PST

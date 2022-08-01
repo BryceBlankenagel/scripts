@@ -5,7 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-83-cc-polygamy-pt6-roy-jeffs-pt1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-83-cc-polygamy-pt6-roy-jeffs-pt1
 libsyn_embed: 6097487
-
+redirect_from: /2017/12/29/ep-83-cc-polygamy-pt6-roy-jeffs-pt1/
 category: History
 date: 2017-12-28 17:13:58 PST
 ---

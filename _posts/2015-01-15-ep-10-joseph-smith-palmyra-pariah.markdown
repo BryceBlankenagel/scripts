@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode10-joseph-smith-palmyra-pariah/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep10-joseph-smith-palmyra-pariah
 libsyn_embed: 3300539
+redirect_from: /2015/01/16/ep-10-joseph-smith-palmyra-pariah/
 
 category: History
 date: 2015-01-15 21:29:06 PST

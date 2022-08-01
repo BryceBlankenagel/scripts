@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 130 - Quadrennial Airlift Rescue
+
 episode_url: https://nakedmormonismpodcast.com/episode-130-quadrennial-airlift-rescue/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-130-quadrennial-airlift-rescue
 libsyn_embed: 7659530
-
 category: History
 date: 2018-11-22 16:00:00 PST
+redirect_from: /2018/11/23/ep-130-quadrennial-airlift-rescue/
 ---
 
 Ep 130 – Quadrennial Airlift Rescue

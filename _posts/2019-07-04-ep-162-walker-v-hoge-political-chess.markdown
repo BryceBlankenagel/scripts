@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 162 - Walker v. Hoge; Political Chess
+
 episode_url: https://nakedmormonismpodcast.com/episode-162-walker-v-hoge-political-chess/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-162-walker-v-hoge-political-chess
 libsyn_embed: 10410647
-
 category: History
 date: 2019-07-04 20:00:00 PDT
+redirect_from: /2019/07/05/ep-162-walker-v-hoge-political-chess/
 ---
 
 Ep 162 – Walker v. Hoge; Political Chess

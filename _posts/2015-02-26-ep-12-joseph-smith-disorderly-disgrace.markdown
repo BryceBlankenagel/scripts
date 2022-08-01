@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-12-joseph-smith-disorderly-disgrace/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-12-joseph-smith-disorderly-disgrace-patreon-early-release
 libsyn_embed: 3387654
+redirect_from: /2015/02/27/ep-12-joseph-smith-disorderly-disgrace/
 
 category: History
 date: 2015-02-26 21:00:00 PST

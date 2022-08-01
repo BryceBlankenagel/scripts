@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-26-joseph-smith-broken-breaker/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-26-joseph-smith-broken-or-the-breaker
 libsyn_embed: 4095023
+redirect_from: /2016/01/22/ep-26-joseph-smith-broken-or-the-breaker/
 
 category: History
 date: 2016-01-21 18:10:34 PST

@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-9-josephs-super-powered-knockout-punches-doom/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep9-josephs-super-powered-knockout-punches-of-doom
 libsyn_embed: 3271860
+redirect_from: /2015/01/03/ep-9-josephs-super-powered-knockout-punches-of-doom/
 
 category: History
 date: 2015-01-02 08:00:00 PST

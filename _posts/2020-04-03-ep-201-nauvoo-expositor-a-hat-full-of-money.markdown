@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 201 - Nauvoo Expositor: A Hat Full of Money
+
 episode_url: https://nakedmormonismpodcast.com/7902-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-201-nauvoo-expositor-a-hat-full-of-money
 libsyn_embed: 13833491
-
 category: History
 date: 2020-04-03 06:57:52 PDT
+redirect_from: /2020/04/04/ep-201-nauvoo-expositor-a-hat-full-of-money/
 ---
 
 Ep 201 – Nauvoo Expositor: A Hat Full of Money

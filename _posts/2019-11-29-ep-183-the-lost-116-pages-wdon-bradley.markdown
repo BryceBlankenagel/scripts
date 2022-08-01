@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 183 - The Lost 116 Pages w/Don Bradley
+
 episode_url: https://nakedmormonismpodcast.com/episode-183-lost-116-pages-wdon-bradley/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-183-the-lost-116-pages-wdon-bradley
 libsyn_embed: 12220853
-
 category: History
 date: 2019-11-29 10:21:14 PST
+redirect_from: /2019/11/30/ep-183-the-lost-116-pages-wdon-bradley/
 ---
 
 Ep 183 – The Lost 116 Pages w/Don Bradley

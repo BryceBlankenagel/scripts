@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-6-polygamy-special-pt-1/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep6-polygamy-special
 libsyn_embed: 3193026
+redirect_from: /2014/11/21/ep-6-polygamy-special/
 
 category: History
 date: 2014-11-20 21:29:25 PST

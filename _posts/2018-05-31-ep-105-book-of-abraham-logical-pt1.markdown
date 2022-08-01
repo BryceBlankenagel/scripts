@@ -8,6 +8,7 @@ libsyn_embed: 6657212
 
 category: History
 date: 2018-05-31 22:19:26 PDT
+redirect_from: /2018/05/32/ep-105-book-of-abraham-logical-pt1/
 ---
 
 Ep 105 – Book of Abraham Logical pt1

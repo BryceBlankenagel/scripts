@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-22-priestcraft-hypocrisy-spine-grown-broken/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-22-priestcraft-hypocrisy-a-spine-is-grown-and-broken
 libsyn_embed: 3763693
+redirect_from: /2015/08/28/ep-22-priestcraft-hypocrisy-a-spine-is-grown-and-broken/
 
 category: History
 date: 2015-08-27 20:36:55 PDT

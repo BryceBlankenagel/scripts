@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-16-joseph-smith-plagiarist-extraordinaire/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-16-joseph-smith-plagiarist-extraordinaire
 libsyn_embed: 3542085
+redirect_from: /2015/05/08/ep-16-joseph-smith-plagiarist-extraordinaire/
 
 category: History
 date: 2015-05-07 21:25:00 PDT

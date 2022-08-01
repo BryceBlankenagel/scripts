@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-36-kirtlands-gideon-society-safety-company/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-36-kirtlands-gideon-society-for-safety-company
 libsyn_embed: 4517287
+redirect_from: /2016/07/15/ep-36-kirtlands-gideon-society-for-safety-company/
 
 category: History
 date: 2016-07-14 23:51:56 PDT

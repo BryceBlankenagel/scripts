@@ -14,6 +14,7 @@ email: NakedMormonism@gmail.com
 plugins:
   - jekyll-sitemap
   - jekyll-last-modified-at
+  - jekyll-redirect-from
 
 exclude:
   - README.md

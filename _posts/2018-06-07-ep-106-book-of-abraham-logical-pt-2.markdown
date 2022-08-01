@@ -8,6 +8,7 @@ libsyn_embed: 6681552
 
 category: History
 date: 2018-06-07 19:32:36 PDT
+redirect_from: /2018/06/08/ep-106-book-of-abraham-logical-pt-2/
 ---
 
 Beginning video clip membership numbers from Nelson

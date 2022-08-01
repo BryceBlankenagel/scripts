@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 193 - King Follett pt. 1 The Man
+
 episode_url: https://nakedmormonismpodcast.com/episode-193-king-follett-pt-1-man/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-193-king-follett-pt-1-the-man
 libsyn_embed: 13055288
-
 category: History
 date: 2020-02-06 20:00:00 PST
+redirect_from: /2020/02/07/ep-193-king-follett-pt-1-the-man/
 ---
 
 King Follett biography

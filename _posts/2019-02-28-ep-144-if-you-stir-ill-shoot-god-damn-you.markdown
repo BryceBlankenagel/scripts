@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 144 - If You Stir I’ll Shoot; God Damn You!
+
 episode_url: https://nakedmormonismpodcast.com/episode-144-stir-ill-shoot-god-damn/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-144-if-you-stir-ill-shoot-god-damn-you
 libsyn_embed: 8830565
-
 category: History
 date: 2019-02-28 20:30:00 PST
+redirect_from: /2019/02/29/ep-144-if-you-stir-ill-shoot-god-damn-you/
 ---
 
 Ep 144 – If You Stir I’ll Shoot; God Damn You\!

@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 154 - Jane and Emma
+
 episode_url: https://nakedmormonismpodcast.com/7502-2/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-154-jane-and-emma
 libsyn_embed: 9724289
-
 category: History
 date: 2019-05-09 20:00:00 PDT
+redirect_from: /2019/05/10/ep-154-jane-and-emma/
 ---
 
 Ep 154 – Jane and Emma

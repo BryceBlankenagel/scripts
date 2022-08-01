@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 205 - An Inevitable Riot and a Sham Trial
+
 episode_url: https://nakedmormonismpodcast.com/episode-205-inevitable-riot-sham-trial/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-205-an-inevitable-riot-and-a-sham-trial
 libsyn_embed: 14229134
-
 category: History
 date: 2020-04-30 20:00:00 PDT
+redirect_from: /2020/05/01/ep-205-an-inevitable-riot-and-a-sham-trial/
 ---
 
 Ep 205 – An Inevitable Riot and a Sham Trial

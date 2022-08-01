@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 173 - Emma’s My Hero
+
 episode_url: https://nakedmormonismpodcast.com/episode-173-emmas-hero/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-173-emmas-my-hero
 libsyn_embed: 11322635
-
 category: History
 date: 2019-09-19 19:00:00 PDT
+redirect_from: /2019/09/20/ep-173-emmas-my-hero/
 ---
 
 Hey listeners, I know many of you turn the show off after the main

@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-79-cc-polygamy-pt2-joseph-smith/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-79-cc-polygamy-pt2-joseph-smith
 libsyn_embed: 5998969
+redirect_from: /2017/12/01/ep-79-cc-polygamy-pt2-joseph-smith/
 
 category: History
 date: 2017-11-30 23:12:22 PST

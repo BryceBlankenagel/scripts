@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-71-worst-potus-ever-cognitive-dissonance/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-71-worst-potus-ever-with-cognitive-dissonance
 libsyn_embed: 5801194
+redirect_from: /2017/10/03/ep-71-worst-potus-ever-with-cognitive-dissonance/
 
 category: History
 date: 2017-10-02 16:55:06 PDT

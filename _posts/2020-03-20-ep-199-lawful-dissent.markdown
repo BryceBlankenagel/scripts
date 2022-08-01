@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 199 - Lawful Dissent
+
 episode_url: https://nakedmormonismpodcast.com/episode-199-lawful-dissent/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-199-lawful-dissent
 libsyn_embed: 13630898
-
 category: History
 date: 2020-03-20 09:45:52 PDT
+redirect_from: /2020/03/21/ep-199-lawful-dissent/
 ---
 
 Ep 199 – Lawful Dissent

@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/cc-mark-hofmann-pt-3/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/cc-mark-hofmann-pt-3
 libsyn_embed: 4673816
+redirect_from: /2016/09/17/cc-mark-hofmann-pt-3/
 
 category: CC
 date: 2016-09-16 13:40:48 PDT

@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-20-joe-ignoramus-book-pukei/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/episode-20-joe-the-ignoramus-and-the-book-of-pukei
 libsyn_embed: 3679585
+redirect_from: /2015/07/17/ep-20-joe-the-ignoramus-and-the-book-of-pukei/
 
 category: History
 date: 2015-07-16 19:24:53 PDT

@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 116 - The Tongue is an Unruly Member
+
 episode_url: https://nakedmormonismpodcast.com/episode-116-tongue-unruly-member/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-116-the-tongue-is-an-unruly-member
 libsyn_embed: 6937125
-
 category: History
 date: 2018-08-16 20:52:22 PDT
+redirect_from: /2018/08/17/ep-116-the-tongue-is-an-unruly-member/
 ---
 
 JokerTrump

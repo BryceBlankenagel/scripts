@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 206 - I’d’ve Gone West and Raised A Mightier People
+
 episode_url: https://nakedmormonismpodcast.com/episode-206-idve-gone-west-raised-mightier-people/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-206-idve-gone-west-and-raised-a-mightier-people
 libsyn_embed: 14333765
-
 category: History
 date: 2020-05-07 20:00:00 PDT
+redirect_from: /2020/05/08/ep-206-idve-gone-west-and-raised-a-mightier-people/
 ---
 
 Ep 206 – I’d’ve Gone West and Raised A Mightier People

@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 169 - Council of Fifty Pt. 2 Conception, Conjugation, Conglomeration
+
 episode_url: https://nakedmormonismpodcast.com/episode-169-council-fifty-pt-2-conception-conjugation-conglomeration/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-169-council-of-fifty-pt-2-conception-conjugation-conglomeration
 libsyn_embed: 10964600
-
 category: History
 date: 2019-08-22 20:00:00 PDT
+redirect_from: /2019/08/23/ep-169-council-of-fifty-pt-2-conception-conjugation-conglomeration/
 ---
 
 Ep 169 – Council of Fifty Pt. 2 Conception, Conjugation, Conglomeration

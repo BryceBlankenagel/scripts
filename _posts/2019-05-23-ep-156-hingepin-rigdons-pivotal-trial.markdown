@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 156 - Hingepin Rigdon’s Pivotal Trial
+
 episode_url: https://nakedmormonismpodcast.com/episode-156-hingepin-rigdons-pivotal-trial/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-156-hingepin-rigdons-pivotal-trial
 libsyn_embed: 9906710
-
 category: History
 date: 2019-05-23 23:46:11 PDT
+redirect_from: /2019/05/24/ep-156-hingepin-rigdons-pivotal-trial/
 ---
 
 Ep 156 – Hingepin Rigdon’s Pivotal Trial

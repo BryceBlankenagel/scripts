@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-21-1-prophet-2-trials-3-anybody/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-21-1-prophet-2-trials-3-some-anybody
 libsyn_embed: 3735850
+redirect_from: /2015/08/14/ep-21-1-prophet-2-trials-3-some-anybody/
 
 category: History
 date: 2015-08-13 21:31:12 PDT

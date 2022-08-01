@@ -5,6 +5,7 @@ title: >
 episode_url: https://nakedmormonismpodcast.com/episode-1-introduction-mormonism-joseph-smith/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep1-introduction-to-mormonism-and-joseph-smith
 libsyn_embed: 3169073
+redirect_from: /2014/11/09/ep-1-introduction-to-mormonism-and-joseph-smith/
 
 category: History
 date: 2014-11-08 16:55:58 PST

@@ -2,12 +2,13 @@
 layout: post
 title: >
     Ep 134 - BM Pt. 10 @OrsonHydeYoWife
+
 episode_url: https://nakedmormonismpodcast.com/episode-134-bennett-meltdown-part-10-orsonhydeyowife/
 libsyn_url: https://nakedmormonismpodcast.libsyn.com/ep-134-bm-pt-10-orsonhydeyowife
 libsyn_embed: 7987580
-
 category: History
 date: 2018-12-20 17:00:00 PST
+redirect_from: /2018/12/21/ep-134-bm-pt-10-orsonhydeyowife/
 ---
 
 Ep 134 – BM Pt. 10 @OrsonHydeYoWife
