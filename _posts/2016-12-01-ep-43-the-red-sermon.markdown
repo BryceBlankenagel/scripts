@@ -13,7 +13,7 @@ date: 2016-12-01 21:42:35 PST
 
 Ep 43 - The Red Sermon
 
-On this episode, Jo and Rigdon come riding into Far West and decide to throw
+On this episode, Jo and Rigdon come riding into Farr West and decide to throw
 over the whole game board that’d been strategically placed by powers much
 larger than them over the past 5 years. First thing on the chopping block, the
 heads of all dissenters
@@ -34,14 +34,14 @@ Outro music by Jason Comeau http://aloststateofmind.com/
 Show Artwork http://weirdmormonshit.com/
 Voicemail Line (864)Nake-dMo (625-3366)
 
-_This episode's audio was transcribed, and may contain errors._
+_This episode's audio was transcribed and may contain errors._
 
 Welcome to episode 43 of the Naked Mormonism podcast, the serial Mormon history
-podcast. Today is Thursday, December 1st, 2016. My name is Bryce Mlakenagle,
+podcast. Today is Thursday, December 1st, 2016. My name is Bryce Blankenagle,
 and thank you for joining me.
 
 The last historical episode that we had was a discussion with Mormon historian
-John Hamer. He offered some much needed perspective and helped to
+John Hamer. He offered some much-needed perspective and helped to
 contextualize some of the history that we've been studying recently. Well,
 today we're going to dive right back into the timeline.
 
@@ -49,29 +49,29 @@ So let's get a little bit of a refresher of what happened on the last
 historical timeline episode, so we can kind of just pick up where we left off.
 So last timeline episode, that was episode 41, covered from January to March of
 1838. And it spanned three separate locations during that small time frame.
-The very first location, of course, was the church in Kirtland, from
-where Joann Rigdon and Brigham Young had just fled in the middle of the night
-to avoid detection. The church in Kirtland was amidst turmoil. Joseph Coe,
-Cyrus Smalling, and Martin Harris had created their own Church of Christ, while
+The very first location, of course, was the church in Kirtland, from where
+Joann Rigdon and Brigham Young had just fled in the middle of the night to
+avoid detection. The church in Kirtland was amidst turmoil. Joseph Coe, Cyrus
+Smalling, and Martin Harris had created their own Church of Christ, while
 Warren Parrish had led an armed insurrection that pulled away his closest
 members from the church. There were a small number of other break-off factions
 that had begun and started up and kicked off out of the insurrection that was
-going on in Kirtland. The second setting, of course, was Joann Rigdon's
-journey with their families to Missouri during the worst absolute possible time
-of winter. It's just terrible. Some of the stories that came out of this
-journey from Kirtland to Missouri in January are just terrible, heart-wrenching
+going on in Kirtland. The second setting, of course, was Joann Rigdon's journey
+with their families to Missouri during the worst absolute possible time of
+winter. It's just terrible. Some of the stories that came out of this journey
+from Kirtland to Missouri in January are just terrible, heart-wrenching
 stories, because it was tough. It was really tough to get through the cold and
 the snow and the rivers, you know, thwarting the frozen rivers and whatnot. I
 think they just made people stronger back then. And then we have, of course,
-the third setting, and that would be far west Missouri. The church leadership,
+the third setting, and that would be Farr West Missouri. The church leadership,
 they were pretty much holding their own purge out in Missouri. Prominent
-members, including the Whitmers and Ollie Cowdung and many others, had their
+members, including the Whitmers and Ollie Cowdung, and many others, had their
 memberships either revoked or put on hold until the prophet could come into
 town to determine his truthful followers from the untrustworthy followers. So
 that does it for the milk of today's episode, so let's just jump right into the
 meat and continue talking about this goddamn train wreck.
 
-Now, I know at the end of last episode I said this week's episode would be a
+Now, I know at the end of the last episode I said this week's episode would be a
 discussion. Well, turns out that discussion is a lot longer than I expected it
 to be, and it's going to be a full episode in and of itself. That'll be next
 week's episode. Lindsay Hanson Park of Feminist Mormon Housewives was just far
@@ -82,12 +82,12 @@ But let's get into this week because there's so much going on, and I don't even
 really know where to start here. Now, what I mean is the church at this time
 in 1838, Missouri, essentially, that's where we're focusing, is there's so much
 going on, it's really hard to decide where to kind of pick up and what to focus
-on and what to talk about. So let's begin with Joseph arriving at Far West.
+on and what to talk about. So let's begin with Joseph arriving at Farr West.
 That happened on March 14, 1838. And then, of course, Sidney Rigdon arrived
 April 4, 1838. So this is how long it took them each to get from Kirtland to
 Missouri. And once they got to Missouri, they decided to really have a
 tribunal to see who would be trustworthy. Who were the members that we could
-trust in Far West? Because the church in Kirtland had held its own
+trust in Farr West? Because the church in Kirtland had held its own
 excommunication, essentially, and they had excommunicated Sidney Rigdon and
 Joseph Smith. So the leadership, essentially, of Kirtland had been
 excommunicated, and they were fleeing to Missouri. And there, they were going
@@ -116,7 +116,7 @@ need our own money. Ollie goes and he gets the plates, and he prints the five
 million dollars in cash. I mean... Whenever Joe has some fantastical wish,
 Ollie seems to be the person that translates that to making it happen. Or he
 will say, Joe, we can't do this. And this is a time when I think his ability
-to say, Joe, we can't do this, finally overcame his ability to say, yes sir,
+to say Joe, we can't do this, finally overcame his ability to say, yes sir,
 let's do it. Ollie, at this time, was very frustrated with Joe's intermingling
 of church and state. Essentially, Joe was using the church as his own legal
 body that was handling and transacting legal matters. They were holding
@@ -131,7 +131,9 @@ the Oliver Cowdery letter book.
 
 And he says, Ollie says he was concerned that they were, quote,
 
-> endeavoring to unite ecclesiastical with civil authority and force men under a pretense of incurring the displeasure of heaven to use their earthly substance contrary to their own interest.
+> endeavoring to unite ecclesiastical with civil authority and force men under
+> a pretense of incurring the displeasure of heaven to use their earthly
+> substance contrary to their own interest.
 
 end quote.
 
@@ -150,27 +152,36 @@ council at the time, so he was the person who attested to it being a true copy
 and everything. But this is the body of the complaint, and this is an actual
 legal complaint that these people were filing against Joseph at the time. Quote,
 
-> Sir, it is contrary to the principles of the revelations of Jesus Christ and his gospel and the laws of the land to try a person for an offense by an illegal tribunal or by men prejudiced against him or by authority that has given an opinion or decision beforehand or in his absence.
-> Very respectfully, we have the honor to be David Whitmer, W.W. Phelps, John Whitmer, President of the Church of Christ in Missouri.
+> 1 FAR WEST March 10 1838
+> Sir-- It is contrary to the principles of the revelations of Jesus Christ and
+> His gospel and the laws of the land to try a person for an offense by an
+> illegal tribunal or by men prejudiced against him or by authority that has
+> given an opinion or decision beforehand or in his absence.
+> 
+> Very respectfully we have the honor to be,
+>  DAVID WHITMER
+>  WILLIAM W PHELPS
+>  John WHITMER
+> Presidents of the Church of Christ in Missouri 
 
 End quote.
 
 That's where we see the frustration coming in. These people were following
 Joseph Smith because he was a prophet, but then he was coming along and saying,
-I'm also the civil leader in the area. I'm also the mayor of Far West. I'm
+I'm also the civil leader in the area. I'm also the mayor of Farr West. I'm
 also the person who handles all legal tribunals. I am the judge of the area.
-I handle any legal complaints that you have. As soon as all of those are
-united into one person, it's tyranny. And of course, one thing that we cannot
-ignore at this time when it comes to Oliver Cowdery's relationship with Joseph
-Smith was Fannie Alger. The Fannie Alger affair happened, as best we can tell,
-1836 is when it was discovered, when Emma actually discovered Joe and Fannie
-fucking in the barn behind the house. That's when we see this come out, 1836.
-Right now what we're discussing is barely two years and not quite two years
-after that supposedly happened. And it serves to be a sticking point, a burr
-in the relationship between Ollie and Joe. And we see that come out in Ollie's
-letter to his brother Warren A. Cowdery in January of the year, calling the
-Fannie Alger incident a dirty, nasty, filthy scrape. And that scrape was later
-written over with the word affair.
+I handle any legal complaints that you have. As soon as all of those are united
+into one person, it's tyranny. And of course, one thing that we cannot ignore
+at this time when it comes to Oliver Cowdery's relationship with Joseph Smith
+was Fannie Alger. The Fannie Alger affair happened, as best we can tell, 1836
+is when it was discovered when Emma actually discovered Joe and Fannie fucking
+in the barn behind the house. That's when we see this come out, 1836.  Right
+now what we're discussing is barely two years and not quite two years after
+that supposedly happened. And it serves to be a sticking point, a burr in the
+relationship between Ollie and Joe. And we see that come out in Ollie's letter
+to his brother Warren A. Cowdery in January of the year, calling the Fannie
+Alger incident a dirty, nasty, filthy scrape. And that scrape was later written
+over with the word affair.
 
 Ollie had a problem with Joe's incessant attraction to women. I mean, Ollie
 was violently opposed to polygamy all of his years. He would never join a sect
@@ -195,157 +206,187 @@ just disfellowshipped or had their membership removed. It was kind of a messy
 time. But in April at this time, Oliver Cowdery wrote his own letter of
 defection to Joseph. And it reads in part, quote,
 
-> And that was the problem.
-Cowdery saw this as an attempt to control him, to take away from me my constitutional privileges and inherent rights.
-Ollie saw the writing on the wall.
-He knew that Joseph wasn't going to stop doing what he was doing.
-He knew that Joe was going to go off the rails soon.
-And he was smart enough to jump ship before that happened.
-And this happened.
-In this horrible time of turmoil, when Joe and Rigdon come back, they have to decide who is going to be their new leadership.
-We had the presidency of the Missouri church, who were D-Day David Whitmer, John Goebbels Whitmer, Double Dub Phelps, and then of course Ollie Cowdung, who was clerk.
-These people were the head of the church in Missouri.
-And then Joe and Rigdon come in from Kirtland, having been excommunicated from the church out there, and say, we're putting in our own presidency.
-We're going to reorganize everything out here so we know who we can trust.
-That's what happened.
-A purging, a cleansing of the leadership in Missouri.
-And Joe never looked back.
-Now we have a very tumultuous time in Missouri here.
-Because Far West was essentially the main settlement where Mormons were settling in Missouri.
-It was the central hub.
-But there were small other cities that were being cultivated.
-DeWitt was one of them.
-We'll get into talking about those probably in the next episode or the next few episodes.
-But at this time, Far West Missouri was the focus.
-This was the point where they were establishing the church.
-The church presidency in Missouri had been residing in Far West for a couple of years by this point.
-But they decided that this is going to be the new headquarters, essentially.
-And with these people that had dissented, these people that had fallen away, these very important individuals in the timeline had essentially left.
-David Whitmer, John Whitmer, Ollie Cowdung, these people had all resigned or been excommunicated from the church by the middle of May 1838.
-In fact it wasn't just them.
-Here's a list of people that were excommunicated by May of 1838.
-We have Martin Harris, David Whitmer, Oliver Cowdury, John Whitmer, we talked about them.
-We also have Jacob Whitmer and Hiram Page.
-Hiram Page who gave his own personal revelation about where Zion is.
-And Joe had his seer stone crushed and turned into powder.
-Then we have William E.
-McClellan, Professor Bill.
-Then we have Luke Johnson, Lyman Leadfoot, Lyman E.
-Johnson, John F.
-Boynton, W.
-W.
-Phelps, William I.
-Phelps, we knew about him.
-Then Frederick G.
-Williams, Freddie G.
-Williams.
-Those are just some of the most prominent members in the leadership.
-I mean those were people that were Quorum of the Twelve.
-Six of those people were Book of Mormon witnesses.
-I mean six of the eleven Book of Mormon witnesses were all excommunicated.
-That's absolutely absurd.
-The first presidency of the church, the Whitmers and Phelps, they were the presidents in Missouri.
-They were all gone.
-I mean how the hell does a church recover from this?
-You just cleansed out half of the people that run the church in Missouri and replaced them with people you think you can trust.
-How does the church survive?
-By demonizing these people.
-Don't get me wrong, Ollie and the Whitmers had good reasons to be fighting Joe.
-I mean Joe was overstepping serious boundaries.
-He was intermingling church and state authority to the point that there was no line separating the two.
-Joe was the leader of Far West.
-And Ollie and the Whitmers had good arguments against him.
-That we shouldn't intermingle church and state.
-That he had been fucking over people with the Kirtland Safety Society investments.
-That he had been fucking Fannie Alger a couple years ago and that was adultery, not conduct befitting of a proper prophet of the Lord.
-So Sidney Rigdon helps insulate Joe.
-Now this is my own perspective.
-This is how I'm looking back and seeing it here, but I feel like Rigdon began to take very drastic steps in a way that would insulate Joseph away from these people that were real dissenters, people that were causing serious problems for the church.
-That were, I mean, even publishing like public discourses and public letters to the church.
-That one that we just read that was signed David Whitmer, Phelps and John Whitmer, you know, it's contrary to the principles and revelations of Jesus and his gospel for the laws of the land to be intermingled, blah blah blah.
-That was an open letter that was published publicly.
-A lot of people in Missouri saw and read that letter.
-And, well, they still had good arguments.
-Now of course at this time the Danites were not really organized because they'd been organized, you know, a few months before this, but the Danites began to be used at this point.
-They began to become very convenient, very useful at this point.
-I think this marks a turning point in our history.
-I gave D-Day David Whitmer a nickname nearly two years ago when he was introduced into the show.
-D-Day David Whitmer.
-It stands for Defection Day.
-And while we can't sum all of these people leaving up in one day, I think we can point to one small catalyst that can be seen as the single point where defection was the only answer.
-Defection or agreement.
-You can either fall into line behind Joe and Rigdon, or horribly enough, you can dissent.
-And who knows what happens once you dissent.
-Well, Sidney Rigdon knew what would happen.
-So on June 17, 1838, and I think this is where Rigdon becomes the psychotic firebrand that we've been, he's been hinting at for so long.
-I think this is the point where we can say this is Defection Day, and this is the single point that required Defection Day to happen.
-Defection Day happened three days after this salt sermon was given.
-But this is one of Rigdon's most well-known and influential speeches.
-And it was different from Rigdon's many other speeches in the sense that it was proofread.
-They had written it out before he got up on the stand, as opposed to most of his other sermons were just him standing up and talking.
-The salt sermon was published.
-It was...
-they proofread it before he went on the stage, then he gave it, and then they published it and sold it for, I'm not sure, I think 37 cents a copy or something.
-You know, a quarter and a shilling per copy.
-Now, there unfortunately aren't any full copies left in existence of the salt sermon, but we do have quite a few accounts of people that discuss the contents of it.
-This is taken from John Corral's A Brief History of the Church of Jesus Christ of Latter-day Saints, talking about it.
-President Rigdon delivered from the pulpit what I call the salt sermon.
-Now, this is quoting the salt sermon itself.
-If the salt have lost its savor, it is thenceforth good for nothing but to be cast out and trodden under the feet of men.
-Now, that's the end of the salt sermon, but I'm going to continue quoting John Corral here.
-It was his text, and although he did not call names in his sermon, yet it was plainly understood that he meant the dissenters, or those who denied the faith, ought to be cast out and literally trodden underfoot.
-He indirectly accused some of them with crime."
-That's what happened.
-The salt sermon, that these people should be cast out and trodden underfoot of men, because the salt has lost its savor, it's thenceforth good for nothing.
-Now, of course, he took that from Matthew 5, but he built an entire sermon on it, and it was a two-hour, apparently two-hour-long sermon that blew people's minds, and it scared the dissenters.
-It made people truly afraid for their lives.
-Now, two days after that, two days after the salt sermon was given, Ollie Cowdung, Leadfoot Lyman Johnson, D.
-Day David, and John Goebbels Whitmer fled far west, headed for Richmond, Missouri.
-They ran the fuck away, because that's how scary this was.
-I mean, the Danites had been threatening them, there had been various amorphous death threats up to this point, but finally, Sidney Rigdon got on the stand and gave this salt sermon on June 17, 1838, and said, the salt that has lost its sermon, meaning the dissenters, will be trodden underfoot.
-I would be terrified if I were these people.
-I would run so fast.
-This is horrifying to see this.
-And what is absolutely insane is the fact that Rigdon ramped it up after this.
-The salt sermon was just the beginning.
-The salt sermon was only dealing with dissenters in far west, trying to get them out, chase them out.
-But on July 4th, holy shit, Sidney Rigdon gave his July 4th oration.
-And people know about the salt sermon, and the salt sermon is powerful, but it only deals with dissent, and people that were living in far west.
-But the 4th of July oration was given to everybody.
-It was widely published as well, and we still have many copies of it still existing.
-It was printed out of far west as well.
-Now, I'm going to read this whole thing because it's fucking amazing.
-There's no possible way that we can understand Sidney Rigdon more than by just reading through this 4th of July oration.
-Now, if you support the show through patreon.com slash nakedmormonism, you're about to listen to the entire sermon, the entire 4th of July oration.
-For those that do not subscribe to Patreon, you're about to hear just a couple of intense excerpts taken out of it.
-But the discussion afterwards will still be the same.
-But please listen at patreon.com slash nakedmormonism.
-If you contribute there, this episode is going to be a little bit longer.
-You will be able to listen to the entire oration.
-And I really recommend it because, my god, this guy was terrifying.
-Absolutely scary to have a person preaching this from the pulpit.
-This is taken from the BYU library, online library, and it is a photocopy.
-I'm reading it from a photocopy of the oration.
-And this was printed in 1838.
-There will be a link for it on the show notes as a PDF of the actual speech as they were printed and distributed.
-About 12 pages long.
-It's huge.
-Way bigger than I thought it was.
-So, if you are a Patreon subscriber, you're going to get a lot more than what the normal listeners get to the show.
-So, I hope that you share in the enlightenment and enjoy it as much as I enjoyed reading it myself.
-Quote.
-Alright.
-This is where it gets fucking insane.
-This is when it ramps up.
-And of course it has to be for the final portion of the speech.
-Because, holy shit.
-If he was getting the crowd riled up as Rigdon was wont to do, this was the time when he really brought this to an ultimate crescendo.
-And I can't imagine that right now his dicks could have become any harder than it was.
-Because this is exactly what Rigdon was made for.
-This is why Rigdon is the best preacher in all of Mormonism history.
-The most amazing preacher.
-Here we go.
+> This attempt to control me in my temporal interests, I conceived to be a
+> disposition to take from me a portion of my constitutional privileges and
+> inherent rights. I only respectfully ask leave, therefore to withdraw from a
+> society assuming they have such right.
 
+And that was the problem.
+
+Cowdery saw this as an attempt to control him, to take away from me my
+constitutional privileges and inherent rights. Ollie saw the writing on the
+wall. He knew that Joseph wasn't going to stop doing what he was doing. He
+knew that Joe was going to go off the rails soon. And he was smart enough to
+jump ship before that happened. And this happened. In this horrible time of
+turmoil, when Joe and Rigdon come back, they have to decide who is going to be
+their new leadership. We had the presidency of the Missouri church, who were
+D-Day David Whitmer, John Goebbels Whitmer, Double Dub Phelps, and then, of
+course, Ollie Cowdung, who was clerk. These people were the head of the church
+in Missouri.
+
+And then Joe and Rigdon come in from Kirtland, having been excommunicated from
+the church out there, and say, we're putting in our own presidency. We're
+going to reorganize everything out here so we know who we can trust. That's
+what happened. A purging, a cleansing of the leadership in Missouri. And Joe
+never looked back. Now we have a very tumultuous time in Missouri here.
+Because Farr West was essentially the main settlement where Mormons were
+settling in Missouri. It was the central hub. But there were small other
+cities that were being cultivated. DeWitt was one of them. We'll get into
+talking about those probably in the next episode or the next few episodes.
+
+But at this time, Farr West Missouri was the focus. This was the point where
+they were establishing the church. The church presidency in Missouri had been
+residing in Farr West for a couple of years by this point. But they decided
+that this is going to be the new headquarters, essentially. And with these
+people that had dissented, these people that had fallen away, these very
+important individuals in the timeline had essentially left. David Whitmer,
+John Whitmer, and Ollie Cowdung, these people had all resigned or been
+excommunicated from the church by the middle of May 1838.
+
+In fact, it wasn't just them. Here's a list of people that were excommunicated
+by May of 1838. We have Martin Harris, David Whitmer, Oliver Cowdery, and John
+Whitmer, we talked about them. We also have Jacob Whitmer and Hiram Page.
+Hiram Page, who gave his own personal revelation about where Zion is. And Joe
+had his seer stone crushed and turned into powder. Then we have William E.
+McClellan, Professor Bill. Then we have Luke Johnson, Lyman Leadfoot, Lyman E.
+Johnson, John F. Boynton, W. W. Phelps, William I. Phelps, we knew about him.
+Then Frederick G. Williams, Freddie G. Williams. Those are just some of the
+most prominent members in the leadership.
+
+I mean those were people that were Quorum of the Twelve. Six of those people
+were Book of Mormon witnesses. I mean six of the eleven Book of Mormon
+witnesses were all excommunicated. That's absolutely absurd. The first
+presidency of the church, the Whitmers and Phelps, they were the presidents in
+Missouri. They were all gone. I mean how the hell does a church recover from
+this? You just cleansed out half of the people that run the church in Missouri
+and replaced them with people you think you can trust. How does the church
+survive? By demonizing these people. Don't get me wrong, Ollie and the
+Whitmers had good reasons to be fighting Joe. I mean Joe was overstepping
+serious boundaries. He was intermingling church and state authority to the
+point that there was no line separating the two. Joe was the leader of Farr
+West. And Ollie and the Whitmers had good arguments against him. That we
+shouldn't intermingle church and state. That he had been fucking over people
+with the Kirtland Safety Society investments. That he had been fucking Fannie
+Alger a couple of years ago and that was adultery, not conduct befitting of a
+proper prophet of the Lord. So Sidney Rigdon helps insulate Joe.
+
+Now this is my own perspective. This is how I'm looking back and seeing it
+here, but I feel like Rigdon began to take very drastic steps in a way that
+would insulate Joseph away from these people that were real dissenters, people
+that were causing serious problems for the church. That were, I mean, even
+publishing like public discourses and public letters to the church. That one
+that we just read that was signed David Whitmer, Phelps, and John Whitmer, you
+know, it's contrary to the principles and revelations of Jesus and his gospel
+for the laws of the land to be intermingled, blah blah blah. That was an open
+letter that was published publicly. A lot of people in Missouri saw and read
+that letter. And, well, they still had good arguments.
+
+Now of course at this time the Danites were not really organized because they'd
+been organized, you know, a few months before this, but the Danites began to be
+used at this point. They began to become very convenient, and very useful at
+this point. I think this marks a turning point in our history. I gave D-Day
+David Whitmer a nickname nearly two years ago when he was introduced to the
+show. D-Day David Whitmer. It stands for Defection Day. And while we can't
+sum up all of these people leaving in one day, I think we can point to one
+small catalyst that can be seen as the single point where defection was the
+only answer. Defection or agreement. You can either fall into line behind Joe
+and Rigdon, or horribly enough, you can dissent. And who knows what happens
+once you dissent?
+
+Well, Sidney Rigdon knew what would happen. So on June 17, 1838, and I think
+this is where Rigdon becomes the psychotic firebrand that we've been, he's been
+hinting at for so long. I think this is the point where we can say this is
+Defection Day, and this is the single point that required Defection Day to
+happen. Defection Day happened three days after this salt sermon was given.
+But this is one of Rigdon's most well-known and influential speeches. And it
+was different from Rigdon's many other speeches in the sense that it was
+proofread. They had written it out before he got up on the stand, as opposed
+to most of his other sermons were just him standing up and talking.
+
+The salt sermon was published.
+
+They proofread it before he went on the stage, then he gave it, and then they
+published it and sold it for, I'm not sure, I think 37 cents a copy or
+something. You know, a quarter and a shilling per copy.
+
+Now, there unfortunately aren't any full copies left in existence of the salt
+sermon, but we do have quite a few accounts of people that discuss the contents
+of it. This is taken from John Corral's _A Brief History of the Church of Jesus
+Christ of Latter-day Saints_, talking about it.
+
+> President Rigdon delivered from the pulpit what I call the salt sermon.
+
+_Now, this is quoting the salt sermon itself._
+
+> If the salt has lost its savor, it is thenceforth good for nothing but to be
+> cast out and trodden under the feet of men.
+
+Now, that's the end of the salt sermon, but I'm going to continue quoting John Corral here.
+
+> It was his text, and although he did not call names in his sermon, yet it was
+> plainly understood that he meant the dissenters, or those who denied the faith,
+> ought to be cast out and literally trodden underfoot. He indirectly accused
+> some of them with crime.
+
+End Quote
+
+That's what happened. The salt sermon, that these people should be cast out and
+trodden underfoot of men, because the salt has lost its savor, it's thenceforth
+good for nothing. Now, of course, he took that from Matthew 5, but he built an
+entire sermon on it, and it was a two-hour, apparently two-hour-long sermon
+that blew people's minds, and it scared the dissenters. It made people truly
+afraid for their lives.
+
+Now, two days after that, two days after the salt sermon was given, Ollie
+Cowdung, Leadfoot Lyman Johnson, D-Day David, and John Goebbels Whitmer fled
+Farr West, headed for Richmond, Missouri. They ran the fuck away because
+that's how scary this was. I mean, the Danites had been threatening them,
+there had been various amorphous death threats up to this point, but finally,
+Sidney Rigdon got on the stand and gave this salt sermon on June 17, 1838, and
+said, the "salt that has lost its sermon", meaning the dissenters, "will be
+trodden underfoot". I would be terrified if I were these people. I would run
+so fast. This is horrifying to see this. And what is absolutely insane is the
+fact that Rigdon ramped it up after this.
+
+The salt sermon was just the beginning. The salt sermon was only dealing with
+dissenters in Farr West, trying to get them out, chase them out. But on July
+4th, holy shit, Sidney Rigdon gave his July 4th oration. And people know about
+the salt sermon, and the salt sermon is powerful, but it only deals with
+dissent, and people that were living in Farr West. But the 4th of July oration
+was given to everybody. It was widely published as well, and we still have
+many copies of it still existing. It was printed out of Farr West as well.
+Now, I'm going to read this whole thing because it's fucking amazing. There's
+no possible way that we can understand Sidney Rigdon *more* than by just
+reading through this 4th of July oration.
+
+Now, if you support the show through patreon.com/nakedmormonism, you're about
+to listen to the entire sermon, the entire 4th of July oration. For those that
+do not subscribe to Patreon, you're about to hear just a couple of intense
+excerpts taken out of it. But the discussion afterward will still be the same.
+But please listen at patreon.com/nakedmormonism.
+
+If you contribute there, this episode is going to be a little bit longer. You
+will be able to listen to the entire oration. And I really recommend it
+because, my god, this guy was terrifying. Absolutely scary to have a person
+preaching this from the pulpit. This is taken from the BYU library, online
+library, and it is a photocopy. I'm reading it from a photocopy of the
+oration. And this was printed in 1838. There will be a
+[link](http://contentdm.lib.byu.edu/cdm/compoundobject/collection/NCMP1820-1846/id/2816/rec/1)
+for it on the show notes as a PDF of the actual speech as they were printed and
+distributed. About 12 pages long. It's huge. Way bigger than I thought it was.
+So, if you are a Patreon subscriber, you're going to get a lot more than what
+the normal listeners get to the show. So, I hope that you share in the
+enlightenment and enjoy it as much as I enjoyed reading it myself.
+
+Alright. This is where it gets _fucking insane_. This is when it ramps up. And
+of course it has to be for the final portion of the speech. Because, holy
+shit. If he was getting the crowd riled up as Rigdon was want to do, this was
+the time when he really brought this to an ultimate crescendo. And I can't
+imagine that right now his dick could have become any harder than it was.
+Because this is exactly what Rigdon was made for. This is why Rigdon is the
+best preacher in all of Mormonism history. The most amazing preacher. Here we
+go.
+	
 > Our God has promised us a reward of eternal inheritance, and we have believed
 > his promise. And though we wade through great tribulation, we are in nothing
 > discouraged, for we know he that has promised is faithful. The promise is
@@ -357,7 +398,9 @@ Here we go.
 > the world with kindness. We have suffered their abuse without cause. We have
 > patience, and have endured without resentment, until this day, and their
 > persecutions and violence does not cease. But from this day and this hour, we
-> will suffer it no more. We take God and all the holy angels to witness this
+> will suffer it no more.
+> 
+> We take God and all the holy angels to witness this
 > day, that we warn all men in the name of Jesus Christ to come on us no more
 > forever. For from this hour we will bear it no more. Our rights shall no more
 > be trampled on with impunity. The man or set of men who attempts it does it at
@@ -366,37 +409,45 @@ Here we go.
 > till the last drop of their blood is spilled, or else they will have to
 > exterminate us. For we will carry the seat of war to their own houses and
 > their own families, and one party or the other shall be utterly destroyed.
-> Remember it then, all men. We will never be the aggressors. We will infringe
+> Remember it then, all men.
+> 
+> We will never be the agressors. We will infringe
 > on the rights of no people, but shall stand for our own until death. We claim
-> our own rights, and are willing that all others shall enjoy theirs. No man
+> our own rights, and are willing that all others shall enjoy theirs.
+> 
+> No man
 > shall be at liberty to come into our streets to threaten us with mobs, for if
 > he does, he shall atone for it before he leaves this place. Neither shall he
 > be at liberty to vilify and slander any of us, for suffering we will not in
-> this place. We, therefore, take all men to record this day, that we proclaim
+> this place.
+> 
+> We, therefore, take all men to record this day, that we proclaim
 > our liberty on this day as did our fathers. We pledge this day to one another,
 > our fortunes, our lives, and our sacred honors, to be delivered from the
 > persecutions which we have had to endure for the last nine years. Neither will
 > we indulge any man or set of men in instituting vexatious lawsuits against us,
 > to cheat us out of our just rights, if they attempt it, we say, woe be unto
-> them. We this day then proclaim ourselves free, with a purpose and a
-> determination that can never be broken. No, never. No, never. No, never.
+> them.
+> 
+> We this day then proclaim ourselves free, with a purpose and a
+> determination that can never be broken, "no never! _no never!_ NO NEVER."!!!
 
 End quote.
 
 The people in Missouri hated the Mormons for this. This is a quote from
 Ebenezer Robinson, included in Items of Personal History of the Editor,
 published in November of 1889. Of course, Ebenezer Robinson at the time was
-the printer in Far West.
+the printer in Farr West.
 
 It said, quote,
 
-> A copy of the oration was furnished to the editor and printed in the Far
-> West, a weekly newspaper printed in Liberty, the county seat of Clay County.
+> A copy of the oration was furnished to the editor and printed in _The Farr
+> West_, a weekly newspaper printed in Liberty, the county seat of Clay County.
 > It was also printed in pamphlet form by the writer of this, in the printing
-> office of the Elder's Journal in the city of Far West, a copy of which we have
-> preserved. This oration and the stand taken by the church in endorsing it and
-> its publication undoubtedly exerted a powerful influence in arousing the people
-> of the whole Upper Missouri country.
+> office of the Elder's Journal in the city of Farr West, a copy of which we
+> have preserved. This oration and the stand taken by the church in endorsing
+> it and its publication undoubtedly exerted a powerful influence in arousing
+> the people of the whole Upper Missouri country.
 
 End quote.
 
@@ -410,21 +461,23 @@ serious problem in parts of Missouri. The Mormons are really becoming a
 problem now. We have a Mormon standing up in front of a congregation of a few
 thousand people saying, we will have a war of extermination between us and the
 Missourians. We'll follow them to their homes and their families and every
-drop of their blood will be spilled. Now, just consider the possibility of
+drop of their blood will be spilled.
+
+Now, just consider the possibility of
 this. I've used this example before, but let's just say Abu Bashar Baghdadi or
 somebody with a very foreign name to Americans moves to one of the plain
 states, you know, Iowa or Kansas or one of those places that has just nothing.
 There's nothing out there. Just grassland and cornfields and nuclear missile
 silos. Just nothing out there. Absolutely nothing useful. And then this Abu
-person begins to amass a following. It starts out just him and a couple of his
+person begins to amass a following. It starts out with just him and a couple of his
 friends and then they bring in a couple more of their friends and all of their
 friends' families and their own families. And then all of their friends start
 bringing in their extended relatives and their family and their other friends.
-And eventually you have an entire swath of two or three thousand people with
+And eventually, you have an entire swath of two or three thousand people with
 names like Muhammad and Abu and Bakr and whatever scary foreign names that so
 many Americans are scared of at the time. What if Abu stands up on the stand
 and says, we will kill all of the Kansans or all of the Missourians or all of
-the Iowans for persecuting us. We will follow them to their homes, to their
+the Iowans for persecuting us? We will follow them to their homes, to their
 families and spill every last drop of their blood. We will have a war of
 extermination between us and them. How would people react today? How long
 until that little commune of, you know, this religious commune would be
@@ -433,8 +486,9 @@ Or they just drone strike the area. Oh well, it's our, you know, they're drone
 striking American soil. Oh well, the people are brown and they have weird
 names so it's okay. As long as they aren't white Americans on American soil,
 we can bomb them. We can do whatever we want to them. Like this is simply
-scary to think about because it's entirely possible that it could happen. Now
-if somebody stands up on the stand and gives a sermon like this and nothing
+scary to think about because it's entirely possible that it could happen.
+
+Now if somebody stands up on the stand and gives a sermon like this and nothing
 happens, I'm not bothered by it. I'm bothered by the fact that it furthers a
 bullshit persecution narrative but I'm not bothered by the fact that it didn't
 go anywhere. In fact, I'm happy that it didn't go anywhere. However, if
@@ -453,18 +507,17 @@ area. That's all the Mormons were to the Missourians until this sermon was
 given. Until this sermon was not only given but it was widely published and
 sold and reprinted in newspapers and it gained traction. This speech went
 viral because it was that fucking terrifying to have somebody like Sidney
-Rigdon or Joseph Smith standing up leading a few thousand people and saying we
-will exterminate those who persecute us. That's fucking terrifying and how
-would we react today? I mean there's no real analog to it that we can think
-of, is there? I mean there's no proper analog to this. And given some of the
-Danite actions that follow in the coming months after this sermon was given,
-the people were right to be terrified. Joe was using the Danites as his own
-little personal muscle squad. We'll have to get into this later just because
-it's so fascinating. But this marks the beginning of the vilification of the
-Mormons in Missouri. The beginning of when the Missourians said we really
-cannot deal with the Mormons right now. They really are an actual problem.
-This is from the 1838 Mormon War in Missouri. It's a book by Stephen C.
-Lesueur on page 52.
+Rigdon or Joseph Smith standing up leading a few thousand people and saying "we
+will exterminate those who persecute us". That's fucking terrifying and how
+would we react today? I mean there's no real analog to it that we can think of,
+is there? I mean there's no proper analog to this. And given some of the Danite
+actions that follow in the coming months after this sermon was given, the
+people were right to be terrified. Joe was using the Danites as his own little
+personal muscle squad. We'll have to get into this later just because it's so
+fascinating. But this marks the beginning of the vilification of the Mormons in
+Missouri. The beginning of when the Missourians said we really cannot deal with
+the Mormons right now. They really are an actual problem. This is from the
+_1838 Mormon War in Missouri_. It's a book by Stephen C. Lesueur on page 52.
 
 Quote,
 
@@ -474,23 +527,24 @@ Quote,
 > Missouri settlers who interpreted the speech as an open, defiant declaration of
 > Mormon intentions to set themselves outside the law.
 
-Now he is quoting from the Liberty Western Star.
-
-It was published September 14, 1838 and it was reprinted in the Missouri Argus September 27, 1838.
-This is a direct quote from the book, 1838 Mormon War in Missouri.
+Now he is quoting from the _Liberty Western Star_. It was published September
+14, 1838 and it was reprinted in the _Missouri Argus_ September 27, 1838. This
+is a direct quote from the book, _1838 Mormon War in Missouri_.
 
 > Until the 4th of July we heard of no threats being made against them in any
 > quarter. The people had all become reconciled to let them remain where they
 > are, and indeed were disposed to lend them a helping hand. But one Sidney
 > Rigdon, in order to show himself off as a great man, collected them all
-> together in the town of Far West on the 4th of July, and there delivered a
+> together in the town of Farr West on the 4th of July, and there delivered a
 > speech containing the essence of, if not treason itself. This speech was not
-> only published in the newspapers, but handbills were struck for distribution in
-> Caldwell and Davies counties. We have not the speech now before us, but we
-> recollect among other threats that this author said, We will not suffer any
-> vexatious lawsuit against our people, nor will we suffer any person to come
-> into our streets and abuse them. Now if this is not a manifestation of a
+> only published in the newspapers, but handbills were struck for distribution
+> in Caldwell and Davies counties. We have not the speech now before us, but we
+> recollect among other threats that this author said, "We will not suffer any
+> vexatious law-suits with our people, nor will we suffer any person to come
+> into our streets and abuse them." Now if this is not a manifestation of a
 > disposition to prevent the force of law, we do not know what is.
+
+End Quote
 
 Seriously, if not for Rigdon's little bullshit 4th of July sermon, things would
 have gone completely different for the Mormons in Missouri. There wouldn't
@@ -514,8 +568,8 @@ figured, we got chased out of Kirtland, let's not let that happen again. Let's
 establish a stable stronghold here and let's branch out to as many local areas
 as we possibly can so that we kind of decentralize the power, essentially. So
 that we can have many places that can be possible strongholds. Because that's
-why Joe and Rigdon went to Missouri in the first place. Why they fled to far
-west in the first place was because Kirtland was no longer safe from both legal
+why Joe and Rigdon went to Missouri in the first place. Why they fled to Farr
+West in the first place was because Kirtland was no longer safe from both legal
 prosecution and internal dissent. The number of members that were trying to
 take the church from Joe was astronomical. So they were running from that,
 essentially, as well as from other lawsuits that were going on. Of course,
@@ -532,12 +586,16 @@ It says, quote
 > council to appeal for financial assistance in remuneration for their services
 > to the church, being reduced, as it were, to beggary as a result.
 
-Yeah, well, of course, they just fled from Kirtland all of their possessions and everything they owned.
-Joe and Rigdon were just as destitute as most of the members of the church.
+Yeah, well, of course, they just fled from Kirtland all of their possessions
+and everything they owned. Joe and Rigdon were just as destitute as most of
+the members of the church.
 
 > The council, upon considering their request, instructed the bishop to provide
-> for each of them an 80-acre lot of church property. So just handed them 80
-> acres. And appointed a committee of three to work out with President Smith and
+> for each of them an 80-acre lot of church property.
+
+So just handed them 80 acres.
+
+> And appointed a committee of three to work out with President Smith and
 > Rigdon proper remuneration. Not for preaching or for receiving the word of God
 > by revelation, neither for instructing the saints in righteousness, but for
 > services rendered in the printing establishment and translating the ancient
@@ -571,7 +629,9 @@ find some way around it, and that's how they tried to do this. But Ebenezer
 Robinson goes on to detail what they decided here.
 It says, quote,
 
-> $1,100 each per year.
+> The above named committee reported to the High Council, at a subsequent
+> meeting, but the sum agreed upon is left blank in the history, as printed.
+> The amount they asked for was ELEVEN HUNDRED DOLLARS each per annum.
 
 Wow! $1,100 per year. Now, rates of inflation, that was a fairly exorbitant
 amount of money. I mean, people, very few people made more than $1 or $2 a
@@ -583,18 +643,18 @@ show notes because it's a great autobiography. It's really beautiful. And he
 discusses a lot of these things from a first-person account, and that's what
 this is. Quote,
 
-> Warmly, hotly, I would think, discussed by the members of the council until
-> near sundown, George M. Hinkle bitterly opposed it, as the church had always
-> been opposed to a salaried ministry.
+> The question was warmly discussed by the members of the Council until near
+> sundown. George M. Hinkle bitterly opposed it, as the church had always been
+> opposed to a salaried ministry.
 
 Yep, priestcraft, there you go.
 
-> A majority of the council, however, favored the measure, so that when the vote
-> was called, 11 voted for it and 1 against. But when it was noise abroad that
-> the council had taken such a step, the members of the church, almost to a man,
-> lifted their voices against it. The expression of disapprobation was so strong
-> and emphatic that at the next meeting of the high council, the resolution
-> voting them a salary was rescinded.
+> A majority of the Council however, favored the measure, so that when the vote
+> was called, eleven voted for it, and one against it. But when it was noised
+> abroad that the Council had taken such a step, the members of the church,
+> almost to a man, lifted their voices against it. The expression of
+> disapprobation was so strong and emphatic, that at the next meeting of the
+> High Council the resolution voting them a salary, was rescinded.
 
 Holy shit. End quote.
 
@@ -608,7 +668,7 @@ shit. Just lost their fucking minds. Because how can you claim to be a pious
 holy prophet leading a church, railing against priestcraft, when you're asking
 for $1,100 to rescue you out of the clutches of your own shitty business
 practices? Like, that's absolutely absurd. And, and, tack on to this, the
-church gave each of them an 80 acre lot out of the church property holdings. I
+church gave each of them an 80-acre lot out of the church property holdings. I
 mean, I understand the church wasn't incorporated at this time, it was all
 still under the name of Smith and Rigdon, but, like, still, that 80 acres, that
 was church property, and they're just like, we're giving each of you 80 acres
@@ -628,16 +688,16 @@ destitute, that's riling even more people up. Now we run into another set of
 problems that the Missourians had with the Mormons. This is taken, once again,
 out of the 1838 Mormon War in Missouri, by Stephen Lesure. He says, quote, the
 Mormons quickly became the dominant political force in the county. Now this is
-talking about Davies County, by the way. By August, they numbered about one
-half of the 2,000 county residents and represented at least one third of the
-voting population. Ah, there's a problem. The Davies County residents did not
-belong to the Democratic Party, but they would vote for any candidate who they
-believed would protect their rights. They also tended to vote as a block and
-therefore held the balance of power in the Davies election. The state and
+talking about Davies County, by the way. By August, they numbered about
+one-half of the 2,000 county residents and represented at least one-third of
+the voting population. Ah, there's a problem. The Davies County residents did
+not belong to the Democratic Party, but they would vote for any candidate who
+they believed would protect their rights. They also tended to vote as a block
+and therefore held the balance of power in the Davies election. The state and
 county elections scheduled for August 6th stirred considerable excitement among
 the Davies settlers because it would be their first opportunity to elect their
 own county officers. So the candidates visited Diamond frequently. So,
-Diamond was a settlement in Davies County and it was essentially where Joe said
+Diamond was a settlement in Davies County, and it was essentially where Joe said
 that Adam and Eve fled to after they were chased out of the Garden of Eden.
 That was, of course, in Jackson County. They fled to Diamond. So that's
 Diamond in Davies County. A few Mormons ran for the office so the candidates
@@ -686,7 +746,7 @@ this episode as being, you know, what was discussed very briefly during that
 presentation. Now, we're trying to couch these things together. I'm trying to
 build a cogent timeline that we can see these pressures slowly building up, and
 this is where we see more pressures. I mean, we have the land ownership. We
-have the Missourians chasing the Mormons out in 1833 and settling in Far West.
+have the Missourians chasing the Mormons out in 1833 and settling in Farr West.
 We have Rigdon and Joe calling for the remuneration that the Mormons did not
 like. We have them giving the Salt Sermon and the Fourth of July Oration,
 which the Missourians really, really hated. And then we also have land values
@@ -710,7 +770,7 @@ then eventually went away because there wasn't really anything there.
 Now, people speculated on the land based on where they thought people were
 going to buy and settle. You'd have a person that would buy a huge swath of
 land, or, you know, chunks of land, and then break it up into smaller
-settlements and then sell it to a small subsect of people and say, Hey, move
+settlements and then sell it to a small subset of people and say, Hey, move
 out here, move all your friends out here, I'll give you a good deal on the
 property, and then, of course, the property value will increase as more people
 move out here. But if it ends up being a ghost town, then that's a lost
@@ -731,14 +791,14 @@ another passage out of the 1838 Mormon War in Missouri by Stephen Lesure. Quote,
 > however, claimed they did not discover that the lots had been sold to Mormons
 > until after the sale. The citizens of this sparsely settled county, who
 > numbered about 1,800, immediately protested with John Murdoch and George
-> Hinkle, Mormon leaders from far west, moved with their families to DeWitt in
+> Hinkle, Mormon leaders from Farr West, moved with their families to DeWitt in
 > early July.
 
 Now, this is scary stuff, because the people in DeWitt, there were, you know, a
 small number of people living there at the time, and these guys, Henry Root and
 David Thomas, sold a bunch of property to Mormons in DeWitt. Now, DeWitt, up
 until this point, wasn't much of anything. It was right on the Missouri River,
-so that was nice, because it was not that far from Jackson County and from
+so that was nice because it was not that far from Jackson County and from
 Richmond and from these larger cities that were central hubs. But of course,
 it was up the river, and it was not very big. It wasn't really that important
 of a town. But the Mormons bought it and said, this could be a big town. This
@@ -766,7 +826,7 @@ this.
 When Whitmers and Double Up Phelps and all the cow-dung were out running the
 church in Missouri, especially Double Up Phelps and the Whitmers, they had an
 agreement set out with the Missourians that we'll settle in Caldwell and Davies
-counties, in Liberty and in Far West, and those will be our towns. Those will
+counties, in Liberty and in Farr West, and those will be our towns. Those will
 be the Mormon towns, the Mormon counties, essentially. We won't bother you.
 You don't bother us. We're good. And I think John just described it as like a
 handshake agreement or like a gentleman's agreement, right? Well, this wasn't
@@ -780,9 +840,9 @@ settling other cities? Now they're buying up land in other counties? They're
 violating our agreement, our gentleman's agreement. So that was another
 pressure that was pushing on the Mormons and the Mormon leadership that the
 Missourians really didn't like the Mormons for. Now at the end of 1837, we had
-what was organized the Brother of Gideon Society, and it was, sorry, at the end
-of 1836, beginning of 1837, when the Church was organized, when the Kirtland
-Safety Society was organized, they also organized the Brother of Gideon Society
+what was organized The Brother of Gideon Society, and it was, sorry, at the end
+of 1836, beginning of 1837, when the Church was organized when the Kirtland
+Safety Society was organized, they also organized The Brother of Gideon Society
 essentially at the same time, and they were the archetype for the Daughters of
 Zion, which were referred to as the Danites. I'm going to read a little
 passage out of Ebenezer Robinson's autobiography again, and he discusses what
@@ -794,7 +854,7 @@ and the Mormons. Quote,
 > Winesfeld, and Lyman E. Johnson were disposed of, and Joseph Smith Jr. and
 > Sidney Rigdon had written that unfeeling letter to John Whitmer, unbecoming of
 > gentlemen, much less professed saints, and after having that remarkable
-> revelation stating that Far West was holy ground, a society was organized by
+> revelation stating that Farr West was holy ground, a society was organized by
 > the Church members, at first called the Daughter of Zion, afterwards Danites,
 > or from which came the secret order called Danites, to be governed by the
 > following purported Bill of Rights and Articles of Organization.
@@ -803,10 +863,25 @@ Now this is the title of that article, it's Bill of Rights of the Daughters of
 Zion and Articles of Organization. And he lists out the entire Articles of
 Organization of the Danites. Now I don't want to get into them because that'll
 be another two hours of talking about them, but the Danites were essentially
-the extra-legal force for Joseph. Now we've heard reference to the Danites,
+the extra-legal force for Joseph. Now we've heard references to the Danites,
 I've mentioned them quite a few times in the show. This is the time when the
-Danites actually begin to exert influence, and become an important piece of
-this puzzle. This is from page 46 of the 1838 Mormon War in Missouri. Quote,
+Danites actually begin to exert influence and become an important piece of
+this puzzle. This is from page 46 of the _1838 Mormon War in Missouri_. Quote,
+
+
+> One other point deserves mention, beginning in early September, the
+> Missourians wrote letters to Governor Boggs,
+
+that's Lilburn Boggs
+
+> and printed articles in local newspapers describing the militant nature of
+> the Danite band. The existence of the Danites became so well known that
+> non-Mormon settlers asked Mormons questions about the secret society. It is
+> difficult to believe that Joseph Smith and other Mormon leaders knew little
+> about the Danites when the groups, teachings, and activities were common
+> knowledge and a "chief source of anxiety among the citizens of Northwestern
+> Missouri."
+
 End quote.
 
 There's no way we can understand this from our perspective. Let's go back to
@@ -817,55 +892,61 @@ thousand, let's say a thousand armed men, are ready to enforce the will of this
 religious sect, of this, let's call it a religious cult. Now, let's say if Abu
 had set up this Islamic caliphate, essentially, in Iowa, Kansas, wherever, and
 people had taken notice, but they didn't want to say or do anything, because
-Abu and his people weren't really breaking any laws, particularly, they're just
+Abu and his people weren't really breaking any laws. Particularly, they're just
 not white, and they just don't have American names, and they don't worship the
-Christian god, you can't march on them, you can't bring an armed mob up against
-them, you can't reign any of their leaders in for tyranny or for treason, if
-they just do that, they're only exercising their religious freedom, their right
-to speech, their right to practice any religion that they choose, or none. But
-as soon as Abu stands up on the stand and says, this is what we have planned,
-these are the people that we will kill if they come upon us, it will be a war
-of extermination, we will follow them to their families and to their houses and
-kill them and spill every drop of their blood, and Abu has a 1,000 man strong
-army, armed with all kinds of guns, grenades, who knows what, you know, the
-cutting edge of technology at the time were cartridge guns at the time, if I'm
-not mistaken, I mean, they were just converting from good old shot, black
-powder guns to actual cartridge guns, and I would assume that if they were
-doing that, that some of these men had them, so you know, what's the pinnacle
-of armament technology that typical people can own today? Let's just say every
-one of these 1,000 men had Armalite AR-15s, you know, fully loaded with
-holographic sights and portable grenade launchers and all kinds of really
+Christian god. You can't march on them, you can't bring an armed mob up against
+them, you can't reign any of their leaders in for tyranny or for treason if
+they just do that. They're only exercising their religious freedom, their right
+to speech, their right to practice any religion that they choose or none.
+
+But as soon as Abu stands up on the stand and says, this is what we have
+planned, these are the people that we will kill if they come upon us, it will
+be a war of extermination, we will follow them to their families and to their
+houses and kill them and spill every drop of their blood, and Abu has a 1,000
+man strong army, armed with all kinds of guns, grenades, who knows what, you
+know, the cutting edge of technology at the time were cartridge guns at the
+time, if I'm not mistaken, I mean, they were just converting from good old
+shot, black powder guns to actual cartridge guns, and I would assume that if
+they were doing that, that some of these men had them, so you know, what's the
+pinnacle of armament technology that typical people can own today? Let's just
+say every one of these 1,000 men had Armalite AR-15s, you know, fully loaded
+with holographic sights and portable grenade launchers and all kinds of really
 scary, intense stuff, you know, stuff that we only see in video games or in the
 armed services, if any of us serve, what if these 1,000 men are armed with all
 of that? They are marching around in uniform and practicing drills and target
 practicing. You know, more than 1,000 men, or more than 2,000 men that are
-ready to march and fight at a moment's notice. There's no way to understand
-what this was like. We can't put ourselves there, we can't understand what it
-must have felt like to be the Missourians watching this Mormon cancer growing
-in Missouri and slowly engulfing more and more counties and becoming weaponized
-and militarized, ready to fight or kill anybody that opposes them. And the
-scariest part is, the Danites, they weren't just this idle type of amorphous
-shadow agency that was meant to just scare you. They were used. The Danites
-were employed by Joe and Rigdon in order to sway their own political leanings,
-in order to cause certain things to be done that they thought should be done.
-Of course, I can't talk about those now because we'll have to go into those
-next episode.
+ready to march and fight at a moment's notice.
+
+There's no way to understand what this was like. We can't put ourselves there,
+we can't understand what it must have felt like to be the Missourians watching
+this Mormon cancer growing in Missouri and slowly engulfing more and more
+counties and becoming weaponized and militarized, ready to fight or kill
+anybody that opposes them. And the scariest part is, the Danites, they weren't
+just this idle type of amorphous shadow agency that was meant to just scare
+you. They were used. The Danites were employed by Joe and Rigdon in order to
+sway their own political leanings, in order to cause certain things to be done
+that they thought should be done. Of course, I can't talk about those now
+because we'll have to go into those next episode.
 
 Maybe that's what the next historical episode will be, is just, we're going to
 begin with reading about the Danites, founding the Danites, the Articles of
 Organization, and then talk about exactly how this weapon was used in the hands
 of Joe and Rigdon in order to cause political strife. It's endlessly
-fascinating. You know, I'm looking back on this time, I can't help but think,
+fascinating.
+
+You know, I'm looking back on this time, I can't help but think,
 Joe and Rigdon were fucking idiots when it came to running a church. I mean,
 there are so many great ways to run a church that don't involve amassing an
-army and giving a speech that says, I'll kill everybody who comes against me.
+army and giving a speech that says, "I'll kill everybody who comes against me".
 Like, that's not the way to run a church. It's the way to run an insurrection,
 you know, an actual militaristic uprising. I mean, many changes in political
 spheres were brought about by one man or woman saying things just like Sidney
 Rigdon had done with an army of a thousand or less people behind them. I mean,
 many political changes that have happened throughout all of human history have
 been waged with nothing more than what Joe and Rigdon had in their pocket
-already. But it was so flashy, it was a grandiose way of doing things. If
+already.
+
+But it was so flashy, it was a grandiose way of doing things. If
 you're going to incite riot and persecution and people fighting publicly in the
 streets, this was the way to do it. Rigdon and Joe did an amazing job of
 creating this facade of being a pariah to the Missourians, to the native
@@ -922,7 +1003,7 @@ every time over zealotry. And the church knows that. They're fucking
 brilliant at it. I mean, we've seen in just the past few years, very small
 political moves that the church has engaged in. Political or monetary, either
 way really. The two are so tightly interwoven, they're basically synonymous at
-this point. We've seen their moves when it comes to acquiring new land, or
+this point. We've seen their moves when it comes to acquiring new land or
 building new church houses and new temples in places that don't fucking need
 these massive, white, Victorian, Gothic-almost-looking buildings that don't
 serve any purpose but for people to do rituals in and say passwords and secret
@@ -930,8 +1011,8 @@ handshakes. It's the only reason why those fucking things exist. And the
 church still puts them up at an incredibly alarming rate because they're smart
 about it this time.
 
-Far West was dedicated as a holy land. They were going to build a temple
-there, but they didn't live in Far West long enough to do it. They went the
+Farr West was dedicated as a holy land. They were going to build a temple
+there, but they didn't live in Farr West long enough to do it. They went the
 firebrand way. They went the fuck-you-we're-doing-whatever-we-want kind of
 way, and they were squashed. They were squashed over and over again. The
 Mormons could not win with going the crazy way, so they decided to go the way
@@ -977,11 +1058,11 @@ any of it. And I say the church here as like this amorphous, you know, demonic
 entity in and of itself, but it probably doesn't operate with as much
 solidarity and direction as I'm trying to vilify it with right now. But that
 being said, we still see the church operating in political and monetary spheres
-that it shouldn't belong in. I mean, why the fuck does a church need a five
-billion dollar shopping mall? Why does it need a multiple hundred million
+that it shouldn't belong in. I mean, why the fuck does a church need a
+five-billion-dollar shopping mall? Why does it need a multiple hundred million
 dollar amusement park in fucking Hawaii? Why does it need another
 multi-billion dollar shopping mall in fucking Florida? Why does the church
-need so much of what is not church related? It doesn't. It just has it. It
+need so much of what is not church-related? It doesn't. It just has it. It
 doesn't need any of those things. It doesn't need any of the thousands of
 subsidiary companies that operate under the umbrella of the corporation of the
 president of the church of Jesus Christ of Latter-day Saints. The church
@@ -996,7 +1077,7 @@ going to kill everybody that opposes us from the pulpit. They don't say any of
 this. They don't act this way anymore. They act with money and power. And I
 would argue that every single time that a corporation or a single entity
 decides to act with its dollar, as opposed to using its members with guns in
-their hand, I think that's a lot more terrifying. When there's a standing mob
+their hands, I think that's a lot more terrifying. When there's a standing mob
 of a few thousand people with guns in their hands, you know who your goddamn
 enemy is. But when nearly every elected official in Utah is a believing
 Mormon, when most judges are, when most people walking along the streets in
@@ -1004,7 +1085,7 @@ Utah are all members of the church, they don't realize that they're small
 pieces of this massive entity that exerts influence through them. The church
 is so smart today. It's so smart.
 
-And it's more terrifying now, I would say, because we no longer have that mob,
+And it's more terrifying now, I would say because we no longer have that mob,
 that standing mob of people with guns that we can call enemies or that we can
 say are in the wrong. Now it's like, who does the church influence? Who do
 they exert their influence on? And how is it done? It's all in the shadows.
@@ -1024,10 +1105,10 @@ to give a shit what anybody says about them, and just exerts its influence and
 does whatever it wants, just because they have the money and power to do it? I
 mean, really, who is a better enemy? If you have to pick one of these enemies,
 which one is better? I don't know. I don't even know how to answer my own
-question. Which one is really better? Obviously we see which one gets more
+question. Which one is really better? Obviously, we see which one gets more
 shit done. One gets the leadership thrown in jail, the other one gets the
 leadership of multi-million dollar houses in downtown Salt Lake. I mean, the
-church is smart enough to see which one is more effective. Hopefully we are,
+church is smart enough to see which one is more effective. Hopefully, we are
 too. Would you prefer to get a letter that reads like this?
 
 > To Oliver Cowdery, David Whitmer, John Whitmer, William Muntz, Phelps, and Lyman E. Johnson,
@@ -1077,7 +1158,7 @@ current business model.
 
 And I guess I'm most excited about what the next few episodes hold with Brigham
 Young, because we want to talk about the Danites and what happened with Liberty
-Jail and Joe and Rigdon being locked up, because that creates a vacuum that
+Jail and Joe and Rigdon being locked up because that creates a vacuum that
 Brigham Young can step into and manipulate to be the office that he wants it to
 be. The Quorum of the Twelve essentially rises to be the leader in the absence
 of Joe and Rigdon, rightfully so. That's what Joe put the Quorum of the Twelve
@@ -1096,7 +1177,7 @@ think is so incredibly helpful. And it helped me a lot. And it helps to offer
 a sense of direction through which this podcast will wade through this
 wasteland of historical confusion and competing narratives. And I'm elated.
 
-I'm stoked about the next few episodes, because this is an intense time in
+I'm stoked about the next few episodes because this is an intense time in
 Mormon history. Not just Mormon history, we're approaching the Missouri Mormon
 War, the Battle of Crooked River. We're talking about things that actually
 have an impact on the greater history of the American continent. And that's
@@ -1111,7 +1192,7 @@ insight, slanted as they may be. And it's still amazing. It's wonderful to
 read through these accounts. Oh, the Danites. I'm just reading another
 passage on them here. The Danites are amazing. I cannot wait to start to get
 into them, because that's when Lyman White and George Robinson and Porter
-Rockwell and a few people really come into their own. So be watching now for
+Rockwell, and a few people really come into their own. So be watching now for
 that next episode, the Danites. And, you know, some people say that the
 Danites exist today as a shadow society. I don't know where they're getting
 that from or what they're using as a basis for that, or even if it's possible.
@@ -1272,3 +1353,4 @@ to thank all of you incredibly marvelous listeners for lending me your ear.
 Hope to talk to you next time here on the Naked Mormonism Podcast.
 
 -->
+
